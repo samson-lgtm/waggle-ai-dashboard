@@ -3571,7 +3571,7 @@ Webchat,,,,,Bot
 Webchat,,PM,Accessories,Stock Issue,Human
 Webchat,,,,,Bot
 Webchat,,PM,Subs Activation,Combo Plan,Human
-Inapp,,Waggle.org,NA,,Human
+Inapp,,Waggle.Org,NA,,Human
 Inapp,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
@@ -3856,7 +3856,7 @@ Webapp,2026-04-06,,,,Bot
 Webapp,2026-04-06,PM,Accessories,Stock Issue,Human
 Webapp,2026-04-06,,,,Bot
 Webapp,2026-04-06,PM,Subs Activation,Combo Plan,Human
-Inapp,2026-04-06,Waggle.org,NA,,Human
+Inapp,2026-04-06,Waggle.Org,NA,,Human
 Inapp,2026-04-06,,,,Bot
 Inapp,2026-04-06,,,,Bot
 Inapp,2026-04-06,,,,Bot
