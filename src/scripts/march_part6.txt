@@ -1,0 +1,100 @@
+Inapp	2026-03-11				Bot
+Webapp	2026-03-11	RV Mini Cam	Presales	Functionalities	Human
+Inapp	2026-03-11	4g Mini	App Navigation	Battery Level	Human
+Inapp	2026-03-11	4g Mini	SIM out of Service		Human
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Webapp	2026-03-11				Bot
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11	4g Mini	App Navigation	Battery Level	Human
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11	RV Mini Cam	Connection		Human
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11	4g Mini	Connection		Human
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11	PM	Registration	QR Code	Human
+Webapp	2026-03-11				Bot
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11	PM	Subs Cancellation		Human
+Inapp	2026-03-12	PM	Device Query	Reporting Interval	Human
+Inapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12	RV Mini Cam	App Navigation	Pan Option	Human
+Webapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Inapp	2026-03-12	RV Mini Cam	Connection		Human
+Inapp	2026-03-12	PM	App Navigation	Battery Level	Human
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12	4G Camera	Login Related		Human
+Inapp	2026-03-12	4G Camera	Device Query	Functionalities	Human
+Webapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Inapp	2026-03-12				Bot
+Webapp	2026-03-12				Bot
+Webapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Webapp	2026-03-13	PM	Order Related		Human
+Inapp	2026-03-13	PM	Email ID Change		Human
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13	4g Mini	Trial Plan Query		Human
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13	PM	Not Turning On		Human
+Inapp	2026-03-13	4g Mini	Time Format Query		Human
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Webapp	2026-03-13				Bot
+Inapp	2026-03-13	PM	Coverage area (Mexico)		Human
+Webapp	2026-03-13				Bot
+Inapp	2026-03-13				Bot
+Inapp	2026-03-14				Bot
+Webapp	2026-03-14				Bot
+Webapp	2026-03-14				Bot
+Inapp	2026-03-14				Bot

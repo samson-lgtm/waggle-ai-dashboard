@@ -1,0 +1,100 @@
+Webapp	2026-03-06				Bot
+Inapp	2026-03-06				Bot
+Inapp	2026-03-06				Bot
+Inapp	2026-03-06				Bot
+Webapp	2026-03-06				Bot
+Inapp	2026-03-06				Bot
+Inapp	2026-03-06				Bot
+Webapp	2026-03-06				Bot
+Inapp	2026-03-06				Bot
+Webapp	2026-03-06				Bot
+Webapp	2026-03-06				Bot
+Inapp	2026-03-06	PM	Presales	AQI	Human
+Inapp	2026-03-06				Bot
+Webapp	2026-03-06				Bot
+Webapp	2026-03-06				Bot
+Inapp	2026-03-06				Bot
+Webapp	2026-03-06	PM	App Navigation		Human
+Webapp	2026-03-06	4g Mini	Presales	Functionalities	Human
+Webapp	2026-03-06				Bot
+Inapp	2026-03-06	PM	DNR		Human
+Inapp	2026-03-06				Bot
+Inapp	2026-03-06	4g Mini	Subs Activation		Human
+Inapp	2026-03-06				Bot
+Inapp	2026-03-06	PM	Subs Mapping		Human
+Inapp	2026-03-06				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07	4g Mini	App Navigation	Battery Level	Human
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07	Waggle Cam Pro	multi-user-access		Human
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Webapp	2026-03-07				Bot
+Webapp	2026-03-07				Bot
+Webapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07	4G Camera	App Navigation	Battery Level	Human
+Webapp	2026-03-07				Bot
+Webapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Webapp	2026-03-07				Bot
+Webapp	2026-03-07				Bot
+Inapp	2026-03-07	4g Mini	Presales	Subs Inquiry	Human
+Inapp	2026-03-07				Bot
+Webapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07	PM	DNR		Human
+Inapp	2026-03-07	RV Mini Cam	App Navigation	Noise Alerts	Human
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07	PM	DNR		Human
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07				Bot
+Inapp	2026-03-07	4G Camera	App Navigation	Noise Alerts	Human
+Webapp	2026-03-07				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08	PM	DNR		Human
+Inapp	2026-03-08	PM	Presales	Combo plan	Human
+Webapp	2026-03-08				Bot
+Inapp	2026-03-08	4g Mini	App Navigation	Turn Off light	Human
+Webapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Webapp	2026-03-08	PM	DNR		Human
+Webapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08	4g Mini	App Navigation		Human
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08	RV Mini Cam	Device Removal		Human
+Inapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Inapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Webapp	2026-03-08				Bot
+Webapp	2026-03-09				Bot
+Inapp	2026-03-09	PM	Temp Difference		Human
+Webapp	2026-03-09				Bot
+Webapp	2026-03-09	PM	Presales	Network Carrier	Human
+Inapp	2026-03-09	Waggel Insurance	NA	NA	Human
+Webapp	2026-03-09				Bot

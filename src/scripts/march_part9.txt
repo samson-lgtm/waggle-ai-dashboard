@@ -1,0 +1,166 @@
+Webapp	2026-03-19	PM	Subs Activation	Combo plan	Human
+Webapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19	PM	Device Query	Display related	Human
+Webapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19	PM	Accessories	Purchase	Human
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19	4g Mini	Connection		Human
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Webapp	2026-03-19	PM	Subs Cancellation		Human
+Inapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Webapp	2026-03-19	PM	Replacment		Human
+Webapp	2026-03-19	4g Mini	Presales	Subs Inquiry	Human
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19	RV Mini Cam	App Navigation	Delete Clips	Human
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19	PM	DNR		Human
+Webapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Inapp	2026-03-19				Bot
+Webapp	2026-03-19				Bot
+Webapp	2026-03-20				Bot
+Webapp	2026-03-20	PM	DNR		Human
+Webapp	2026-03-20	PM	Subs Activation	Discount Request	Human
+Inapp	2026-03-20	RV Mini Cam	Device Query	Turn Off Device	Human
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20	Waggel Insurance	NA		Human
+Webapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20	RV Mini Cam	Connection		Human
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20	PM	App Navigation	Temp Report	Human
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20	RV Mini Cam	Connection		Human
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20	PM	DNR		Human
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20	4g Mini	Subs Activation		Human
+Webapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20	PM	Geo Fence Issue		Human
+Inapp	2026-03-20				Bot
+Webapp	2026-03-20				Bot
+Webapp	2026-03-20	4g Mini	Presales	Color Request	Human
+Inapp	2026-03-20	PM	Alerts not working		Human
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20				Bot
+Inapp	2026-03-20	PM	Temp Difference		Human
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21	4G Camera	App Navigation	Flip	Human
+Inapp	2026-03-21	Waggel Insurance			Human
+Webapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21	PM	Registration	Query	Human
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21	4g Mini	Presales	Network Carrier	Human
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21	PM	Subs Activation	Flexi Plan Query	Human
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21	RV Mini Cam	Connection		Human
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Webapp	2026-03-21	PM	Presales	Network Carrier	Human
+Inapp	2026-03-21	RV Mini Cam	App Navigation	Flip	Human
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21	PM	App Issue	Device Selection	Human
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21	PM	App Navigation	Temp threshold	Human
+Webapp	2026-03-21				Bot
+Webapp	2026-03-21				Bot
+Inapp	2026-03-21				Bot
+Inapp	2026-03-21	4g Mini	Subs Cancellation		Human
+Inapp	2026-03-22				Bot
+Webapp	2026-03-22	4g Mini	Subs Cancellation		Human
+Inapp	2026-03-22	4g Mini	App Issue	Loading	Human
+Webapp	2026-03-22				Bot
+Inapp	2026-03-22	4g Mini	App Navigation	Erase Videos	Human
+Inapp	2026-03-22				Bot
+Webapp	2026-03-22				Bot
+Webapp	2026-03-22				Bot
+Inapp	2026-03-22				Bot
+Inapp	2026-03-22	4g Mini	Subs Activation	Discount Request	Human
+Inapp	2026-03-22	4g Mini	Connection		Human
+Inapp	2026-03-22				Bot
+Webapp	2026-03-22				Bot
+Inapp	2026-03-22				Bot
+Inapp	2026-03-22	PM	AQI	Alerts related	Human
+Inapp	2026-03-22				Bot
+Inapp	2026-03-22				Bot
+Inapp	2026-03-22	PM	DNR		Human
+Webapp	2026-03-22	PM	Order Related	Delivery Issue	Human
+Inapp	2026-03-22				Bot
+Webapp	2026-03-22	PM	Presales	Subs Inquiry	Human

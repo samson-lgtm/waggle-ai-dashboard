@@ -1,0 +1,109 @@
+Webapp	2026-03-16				Bot
+Inapp	2026-03-16	PM	Subs Activation	Subs Inquiry	Human
+Inapp	2026-03-16				Bot
+Inapp	2026-03-16	PM	Camping Search		Human
+Webapp	2026-03-16				Bot
+Webapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Inapp	2026-03-16	RV Mini Cam	Connection		Human
+Webapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Webapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Webapp	2026-03-16				Bot
+Inapp	2026-03-16				Bot
+Webapp	2026-03-16	PM	Subs Activation	Combo plan	Human
+Inapp	2026-03-16				Bot
+Webapp	2026-03-16				Bot
+Inapp	2026-03-16	PM	DNR		Human
+Inapp	2026-03-16				Bot
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17	4g Mini	Feature Request	Camera list management	Human
+Inapp	2026-03-17				Bot
+Webapp	2026-03-17	PM	DNR		Human
+Webapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17	PM	DNR		Human
+Inapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Inapp	2026-03-17	PM	App Navigation	Screen Color Change	Human
+Inapp	2026-03-17	PM	DNR		Human
+Webapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Webapp	2026-03-17	PM	Order Related	Shipping	Human
+Inapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Inapp	2026-03-17				Bot
+Webapp	2026-03-17	4g Mini	Auto Tracking		Human
+Inapp	2026-03-17	4g Mini	Auto Tracking		Human
+Webapp	2026-03-17				Bot
+Webapp	2026-03-17				Bot
+Inapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Inapp	2026-03-18	NA	NA	NA	Human
+Inapp	2026-03-18	PM	App Issue	Profile Setup	Human
+Inapp	2026-03-18	PM	Device Removal		Human
+Inapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Inapp	2026-03-18	PM	Accessories		Human
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Webapp	2026-03-18	PM	Subs Activation	Second Monitor	Human
+Webapp	2026-03-18	4G Camera	Presales	Functionalities	Human
+Webapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18	4g Mini	multi-user-access		Human
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18	Waggle Cam Pro	App Issue	Loading	Human
+Inapp	2026-03-18	PM	Not Charging		Human
+Webapp	2026-03-18				Bot
+Webapp	2026-03-18				Bot
+Inapp	2026-03-18	PM	Registration	Used Monitor	Human
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Webapp	2026-03-18	Older Waggle	Registration		Human
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18				Bot
+Inapp	2026-03-18	PM	Alerts not working		Human
+Webapp	2026-03-18				Bot

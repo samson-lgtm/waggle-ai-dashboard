@@ -1,0 +1,100 @@
+Channel	created at	Product	Issue	Sub Type	Handled
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	4g Mini	Device Removal		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01	PM	Subs Cancellation	Further Steps	Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Webapp	2026-03-01	PM	Upgrade	Newer Model	Human
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01	4g Mini	Night Vision	Video Quality	Human
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01	PM	Subs Activation	Coupon Code Request	Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01	PM	Subs Upgrade		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01	PM	DNR		Human
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	Emergency Fund	Inquiry		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Webapp	2026-03-01				Bot
+Webapp	2026-03-01				Bot
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Webapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-01	PM	DNR		Human
+Inapp	2026-03-01				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot

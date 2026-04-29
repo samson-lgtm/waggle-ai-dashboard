@@ -1,0 +1,101 @@
+Inapp	2026-03-09	PM	Device Query	Display related	Human
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09				Bot
+Webapp	2026-03-09				Bot
+Webapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09				Bot
+Inapp	2026-03-09	4g Mini	App Navigation	Rotation	Human
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09	4G Camera	App Navigation	Delete History	Human
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09				Bot
+Inapp	2026-03-09	4G Camera	App Navigation	Motion Alert Turn Off	Human
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09	PM	Device Transfer		Human
+Webapp	2026-03-09	PM	Subs Activation	Subs Inquiry	Human
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09	NA	NA	NA	Human
+Webapp	2026-03-09				Bot
+Webapp	2026-03-09	PM	Presales		Human
+Inapp	2026-03-09				Bot
+Webapp	2026-03-09	PM	Order Related	OOS	Human
+Inapp	2026-03-09				Bot
+Inapp	2026-03-09				Bot
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10	PM	Device Transfer		Human
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10	4G Camera	Solar Panel		Human
+Webapp	2026-03-10				Bot
+Webapp	2026-03-10	PM	Upgrade		Human
+Inapp	2026-03-10	4g Mini	App Navigation	Battery Level	Human
+Inapp	2026-03-10	Waggel Insurance	NA	NA	Human
+Webapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10	PM	multi-user-access		Human
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10	4g Mini	Subs Mapping		Human
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10	4g Mini	Subs Activation	Additional devices	Human
+Inapp	2026-03-10	RV Mini Cam	App Navigation	Delete Video	Human
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10	RV Mini Cam	Subs Activation	Price inquiry	Human
+Webapp	2026-03-10	PM	Replacment		Human
+Inapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Webapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10	PM	DNR		Human
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10				Bot
+Inapp	2026-03-10	PM	Warranty	Activation	Human
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Webapp	2026-03-11	4g Mini	App Navigation	Settings Icon	Human
+Webapp	2026-03-11	RV Mini Cam	Presales	Offers Related	Human
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11	4g Mini	Subs Activation	Combo plan	Human
+Webapp	2026-03-11	PM	Return and Refund		Human
+Inapp	2026-03-11				Bot
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11	PM	DNR		Human
+Inapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11				Bot
+Webapp	2026-03-11				Bot
+Inapp	2026-03-11	PM	App Navigation	Subs Related	Human

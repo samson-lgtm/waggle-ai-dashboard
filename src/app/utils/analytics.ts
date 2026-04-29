@@ -10,7 +10,8 @@ import {
   ProductCount,
   WeekOption
 } from '../types/ticket';
-import { parseDate, isDateInWeek, getWeeksInFebruary2026, getWeeksInJanuary2026, getWeeksInMarch2026 } from './dateUtils';
+import { parseDate, isDateInWeek, isDateInMonth, getWeeksForMonth } from './dateUtils';
+import { format } from 'date-fns';
 
 export const calculateKPIs = (data: TicketData[]): KPIMetrics => {
   const totalSessions = data.length;
@@ -91,40 +92,37 @@ export const getIssueBreakdown = (data: TicketData[], topN: number = 10): IssueB
     .slice(0, topN);
 };
 
-export const getWeeklyEscalationRate = (data: TicketData[], monthFilter: 'january' | 'february' | 'march' | 'all' = 'february'): WeeklyEscalation[] => {
+export const getWeeklyEscalationRate = (data: TicketData[], monthFilter: string = 'february-2026'): WeeklyEscalation[] => {
   if (monthFilter === 'all') {
-    // For "All Months", show monthly aggregation (Jan, Feb, Mar)
-    const months = [
-      { name: 'Jan 2026', month: 0 },
-      { name: 'Feb 2026', month: 1 },
-      { name: 'Mar 2026', month: 2 }
-    ];
+    // For "All Months", display the dynamic months
+    const mSet = new Set<string>();
+    data.forEach(t => {
+      try {
+        const d = parseDate(t.createdAt);
+        if (!isNaN(d.getTime())) {
+           mSet.add(`${format(d, 'MMM yyyy')}|${format(d, 'MMMM').toLowerCase()}-${d.getFullYear()}`);
+        }
+      } catch {}
+    });
     
-    return months.map(({ name, month }) => {
-      const monthData = data.filter(ticket => {
-        const ticketDate = parseDate(ticket.createdAt);
-        return ticketDate.getMonth() === month && ticketDate.getFullYear() === 2026;
-      });
-      
+    const monthsData = Array.from(mSet).map(str => {
+      const [name, val] = str.split('|');
+      const monthData = data.filter(ticket => isDateInMonth(parseDate(ticket.createdAt), val));
       const totalSessions = monthData.length;
       const humanCount = monthData.filter(d => d.handled === 'Human').length;
-      const escalationRate = monthData.length > 0 ? (humanCount / monthData.length) * 100 : 0;
-      
+      const escalationRate = totalSessions > 0 ? (humanCount / totalSessions) * 100 : 0;
       return {
         week: name,
         totalSessions,
         humanEscalations: humanCount,
         escalationRate
       };
-    }).filter(item => item.totalSessions > 0); // Only include months with data
+    }).sort((a,b) => new Date(`1 ${a.week}`).getTime() - new Date(`1 ${b.week}`).getTime());
+    
+    return monthsData.filter(item => item.totalSessions > 0);
   } else {
     // For specific month, show weekly breakdown
-    const weeks = monthFilter === 'january' 
-      ? getWeeksInJanuary2026() 
-      : monthFilter === 'february'
-      ? getWeeksInFebruary2026()
-      : getWeeksInMarch2026();
-    
+    const weeks = getWeeksForMonth(monthFilter);
     return weeks.map(week => {
       const weekData = data.filter(ticket => {
         const ticketDate = parseDate(ticket.createdAt);

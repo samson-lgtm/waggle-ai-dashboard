@@ -1,0 +1,100 @@
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02	PM	DNR		Human
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02	PM	DNR		Human
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02	PM	Not Turning On		Human
+Inapp	2026-03-02	PM	DNR		Human
+Webapp	2026-03-02	4g Mini	Not Turning On		Human
+Inapp	2026-03-02	PM	Subs Cancellation		Human
+Webapp	2026-03-02	PM	Presales	GPS	Human
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Inapp	2026-03-02	PM	Device Transfer		Human
+Webapp	2026-03-02	4g Mini	Presales	Motion Detection	Human
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Inapp	2026-03-02				Bot
+Webapp	2026-03-02				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Inapp	2026-03-03	PM	Not Charging		Human
+Webapp	2026-03-03				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03	PM	Not Charging		Human
+Webapp	2026-03-03	PM	Presales	Price inquiry	Human
+Inapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03	PM	Subs Cancellation		Human
+Inapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Webapp	2026-03-03	4G Camera	Presales	Functionalities	Human
+Webapp	2026-03-03				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03	RV Mini Cam	App Navigation	Unable to find	Human
+Inapp	2026-03-03				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03				Bot
+Webapp	2026-03-03	RV Mini Cam	App Navigation	Joystick Control	Human
+Inapp	2026-03-03	Waggle Cam Pro	App Navigation	Joystick Control	Human
+Webapp	2026-03-03	PM	Upgrade		Human
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03	Waggle Cam Pro	Not Turning On		Human
+Webapp	2026-03-03				Bot
+Webapp	2026-03-03				Bot
+Inapp	2026-03-03	4g Mini	App Navigation	Joystick Control	Human
+Inapp	2026-03-03	4g Mini	App Navigation	Joystick Control	Human
+Inapp	2026-03-03	Waggle Cam Pro	App Navigation	Joystick Control	Human
+Inapp	2026-03-03	4g Mini	App Navigation	Joystick Control	Human
+Inapp	2026-03-03	Waggle Cam Pro	Treat Toss		Human
+Webapp	2026-03-03				Bot
+Webapp	2026-03-04				Bot
+Webapp	2026-03-04				Bot
+Inapp	2026-03-04	Waggle Cam Pro	App Navigation	Joystick Control	Human
+Inapp	2026-03-04				Bot
+Inapp	2026-03-04	Waggle Cam Pro	App Navigation	Joystick Control	Human
+Webapp	2026-03-04				Bot
+Inapp	2026-03-04				Bot
+Inapp	2026-03-04				Bot
+Inapp	2026-03-04				Bot
+Inapp	2026-03-04	PM	DNR		Human
+Webapp	2026-03-04				Bot
+Inapp	2026-03-04				Bot
+Webapp	2026-03-04				Bot
+Webapp	2026-03-04				Bot
+Inapp	2026-03-04				Bot
+Inapp	2026-03-04				Bot
+Webapp	2026-03-04				Bot
+Inapp	2026-03-04				Bot
+Webapp	2026-03-04				Bot
+Webapp	2026-03-04				Bot
+Webapp	2026-03-04	PM	Subs Activation		Human
