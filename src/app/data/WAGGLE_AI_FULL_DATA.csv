@@ -4337,7 +4337,6 @@ Webapp,19-04-2026,PM,Device Query,LED Indicators,Human
 Webapp,19-04-2026,PM,Subs Cancellation,,Human
 Webapp,19-04-2026,,,,Bot
 Webapp,19-04-2026,,,,Bot
-Webchat,30-04-2026,Waggle AI Bot,Billing,Invoice Issue,Bot
 Email,08-04-2026,Freshservice,Billing,Login Error,Bot
 WebApp,14-04-2026,Freshservice,Feature Request,Navigation,Human
 Webchat,21-04-2026,Freshservice,Authentication,Invoice Issue,Bot
@@ -4347,12 +4346,10 @@ Webchat,24-04-2026,Freshdesk,Setup error,Account Setup,Bot
 WebApp,24-04-2026,Waggle Copilot,Billing,Navigation,Bot
 WebApp,23-04-2026,Waggle Copilot,Billing,Login Error,Bot
 Webchat,04-04-2026,Freshdesk,Billing,Account Setup,Human
-Email,28-04-2026,Waggle AI Bot,Setup error,Navigation,Bot
 Email,13-04-2026,Freshservice,Setup error,Navigation,Human
 WebApp,14-04-2026,Freshdesk,Feature Request,Password Reset,Bot
 Webchat,02-04-2026,Freshservice,General Query,Navigation,Bot
 WebApp,20-04-2026,Freshdesk,Authentication,Account Setup,Bot
-WebApp,30-04-2026,Waggle Copilot,Feature Request,Account Setup,Bot
 Email,10-04-2026,Waggle AI Bot,Billing,Login Error,Bot
 Email,02-04-2026,Waggle Copilot,Setup error,Navigation,Bot
 Email,25-04-2026,Freshdesk,Setup error,Login Error,Bot
@@ -4360,13 +4357,9 @@ Email,05-04-2026,Freshservice,Feature Request,Account Setup,Human
 WebApp,10-04-2026,Waggle Copilot,Billing,Password Reset,Bot
 Webchat,14-04-2026,Waggle Copilot,Billing,Password Reset,Bot
 Email,04-04-2026,Freshdesk,General Query,Invoice Issue,Bot
-Email,28-04-2026,Waggle Copilot,Feature Request,Password Reset,Bot
-WebApp,29-04-2026,Freshservice,Authentication,Invoice Issue,Bot
 Webchat,10-04-2026,Waggle AI Bot,Authentication,Login Error,Bot
 WebApp,07-04-2026,Waggle AI Bot,Authentication,Invoice Issue,Human
-Webchat,30-04-2026,Freshservice,Authentication,Login Error,Bot
 Email,26-04-2026,Freshservice,Feature Request,Account Setup,Bot
-Email,30-04-2026,Waggle AI Bot,Feature Request,Login Error,Bot
 WebApp,01-04-2026,Freshservice,General Query,Invoice Issue,Bot
 Email,05-04-2026,Freshservice,Billing,Password Reset,Bot
 Webchat,02-04-2026,Freshservice,Setup error,Account Setup,Bot
@@ -4378,12 +4371,8 @@ Webchat,10-04-2026,Freshservice,Authentication,Navigation,Bot
 Email,10-04-2026,Waggle AI Bot,Feature Request,Login Error,Human
 Email,02-04-2026,Freshdesk,General Query,Password Reset,Bot
 Webchat,25-04-2026,Waggle AI Bot,Setup error,Invoice Issue,Bot
-Webchat,29-04-2026,Freshdesk,General Query,Password Reset,Human
-Email,27-04-2026,Freshservice,Authentication,Navigation,Bot
-Email,28-04-2026,Freshdesk,Setup error,Password Reset,Human
 Email,03-04-2026,Waggle AI Bot,General Query,Password Reset,Bot
 Webchat,16-04-2026,Waggle AI Bot,Authentication,Login Error,Bot
-WebApp,28-04-2026,Freshservice,Feature Request,Invoice Issue,Bot
 Email,14-04-2026,Freshdesk,Feature Request,Navigation,Bot
 WebApp,11-04-2026,Waggle AI Bot,Setup error,Login Error,Bot
 Email,06-04-2026,Freshdesk,Feature Request,Invoice Issue,Bot
@@ -4396,10 +4385,7 @@ Webchat,08-04-2026,Freshdesk,General Query,Invoice Issue,Bot
 WebApp,15-04-2026,Freshdesk,General Query,Invoice Issue,Bot
 WebApp,02-04-2026,Freshdesk,Authentication,Login Error,Bot
 WebApp,23-04-2026,Waggle Copilot,Feature Request,Password Reset,Bot
-Webchat,28-04-2026,Freshdesk,Billing,Login Error,Human
 WebApp,15-04-2026,Freshservice,Authentication,Login Error,Bot
-Email,28-04-2026,Waggle AI Bot,General Query,Account Setup,Bot
-Webchat,27-04-2026,Waggle AI Bot,Authentication,Password Reset,Bot
 WebApp,04-04-2026,Freshdesk,Billing,Password Reset,Human
 Webchat,21-04-2026,Freshservice,Authentication,Account Setup,Bot
 WebApp,08-04-2026,Freshdesk,Setup error,Password Reset,Bot
@@ -4409,7 +4395,6 @@ WebApp,23-04-2026,Freshservice,Authentication,Invoice Issue,Bot
 Email,02-04-2026,Waggle Copilot,General Query,Password Reset,Bot
 Webchat,21-04-2026,Waggle AI Bot,Billing,Account Setup,Human
 Webchat,26-04-2026,Freshservice,Billing,Password Reset,Bot
-WebApp,29-04-2026,Waggle Copilot,Feature Request,Invoice Issue,Bot
 Webchat,21-04-2026,Freshservice,General Query,Invoice Issue,Bot
 Email,08-04-2026,Freshdesk,Feature Request,Password Reset,Bot
 WebApp,01-04-2026,Waggle Copilot,Feature Request,Login Error,Bot
@@ -4424,9 +4409,6 @@ Email,14-04-2026,Waggle Copilot,Billing,Login Error,Bot
 WebApp,20-04-2026,Waggle AI Bot,Setup error,Invoice Issue,Bot
 Email,24-04-2026,Waggle AI Bot,Billing,Navigation,Bot
 WebApp,22-04-2026,Freshservice,General Query,Login Error,Bot
-Email,28-04-2026,Freshservice,Billing,Account Setup,Human
-Email,30-04-2026,Freshdesk,General Query,Account Setup,Bot
-Email,27-04-2026,Waggle AI Bot,Setup error,Account Setup,Bot
 Email,26-04-2026,Freshdesk,Feature Request,Account Setup,Bot
 Email,20-04-2026,Waggle AI Bot,Setup error,Navigation,Bot
 WebApp,19-04-2026,Freshdesk,General Query,Invoice Issue,Bot
@@ -4436,8 +4418,6 @@ Email,26-04-2026,Freshdesk,Authentication,Password Reset,Bot
 Webchat,03-04-2026,Freshservice,Billing,Account Setup,Bot
 WebApp,19-04-2026,Freshdesk,Feature Request,Password Reset,Bot
 Email,25-04-2026,Freshdesk,Billing,Login Error,Human
-WebApp,30-04-2026,Freshdesk,Feature Request,Password Reset,Bot
-Email,28-04-2026,Waggle AI Bot,Setup error,Account Setup,Bot
 WebApp,23-04-2026,Freshdesk,Setup error,Navigation,Bot
 Email,18-04-2026,Waggle AI Bot,Billing,Password Reset,Bot
 Email,09-04-2026,Freshservice,Billing,Account Setup,Bot
@@ -4446,7 +4426,6 @@ Email,21-04-2026,Freshdesk,Billing,Login Error,Bot
 Email,21-04-2026,Waggle Copilot,Authentication,Navigation,Human
 WebApp,03-04-2026,Waggle Copilot,Feature Request,Invoice Issue,Human
 Email,02-04-2026,Freshservice,Setup error,Navigation,Bot
-Webchat,27-04-2026,Waggle Copilot,General Query,Password Reset,Bot
 Webchat,05-04-2026,Waggle Copilot,Setup error,Navigation,Human
 Webchat,05-04-2026,Waggle Copilot,Setup error,Login Error,Bot
 Email,24-04-2026,Freshdesk,Authentication,Account Setup,Bot
