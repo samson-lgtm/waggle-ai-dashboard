@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Desktop specific: Ignore other Desktop files (highly recommended for safety)
+# This ignores EVERYTHING by default, then we whitelist the project files
+/*
+!/src/
+!/package.json
+!/package-lock.json
+!/vite.config.ts
+!/index.html
+!/postcss.config.mjs
+!/public/
+!/scripts/
+!/.gitignore
+!/README.md
+!/ATTRIBUTIONS.md
+!/guidelines/
