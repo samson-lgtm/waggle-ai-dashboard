@@ -4889,8 +4889,8 @@ Inapp,2026-04-27,,,,Bot\r
 Inapp,2026-04-27,,,,Bot\r
 Webapp,2026-04-27,,,,Bot\r
 Inapp,2026-04-27,,,,Bot\r
+\r
 
-Inapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,,,,Bot
 Webapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,4g Mini,Connection,,Human
