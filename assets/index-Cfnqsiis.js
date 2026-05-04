@@ -4960,10 +4960,10 @@ Inapp,2026-04-30,,,,Bot
 Inapp,2026-04-30,,,,Bot
 Inapp,2026-04-30,,,,Bot
 Webapp,2026-04-30,,,,Bot
-Inapp,2026-04-30,4g Mini,App Issue,Plan Purchase,Human
+Inapp,2026-04-30,4g mini,App Issue,Plan Purchase,Human
 Inapp,2026-04-30,,,,Bot
 Webapp,2026-04-30,,,,Bot
-Webapp,2026-04-30,4g Mini,Presales,Combo Plan,Human
+Webapp,2026-04-30,4g mini,Presales,Combo Plan,Human
 Webapp,2026-04-30,,,,Bot
 Inapp,2026-04-30,,,,Bot
 Webapp,2026-04-30,,,,Bot
@@ -4972,10 +4972,10 @@ Inapp,2026-04-30,,,,Bot
 Webapp,2026-04-30,,,,Bot
 Webapp,2026-04-30,,,,Bot
 Inapp,2026-04-30,,,,Bot
-Inapp,2026-04-30,4g Mini,Subs Mapping,,Human
+Inapp,2026-04-30,4g mini,Subs Mapping,,Human
 Webapp,2026-04-30,,,,Bot
 Inapp,2026-04-30,,,,Bot
-Webapp,2026-04-30,4g Mini,Connection,,Human
+Webapp,2026-04-30,4g mini,Connection,,Human
 Inapp,2026-04-30,PM,Subs Mapping,,Human
 Inapp,2026-04-30,,,,Bot
 Webapp,2026-04-30,,,,Bot
@@ -4993,7 +4993,7 @@ Inapp,2026-04-30,PM,Subs Reactivation,Query,Human
 Inapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,,,,Bot
 Webapp,2026-04-28,,,,Bot
-Inapp,2026-04-28,4g Mini,Connection,,Human
+Inapp,2026-04-28,4g mini,Connection,,Human
 Inapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,PM,Subs Mapping,,Human
 Inapp,2026-04-28,PM,Device Query,AQI,Human
@@ -5012,7 +5012,7 @@ Webapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,,,,Bot
 Webapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,,,,Bot
-Webapp,2026-04-28,4g Mini,Device Query,Charger Sel,Human
+Webapp,2026-04-28,4g mini,Device Query,Charger Sel,Human
 Inapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,,,,Bot
 Inapp,2026-04-28,,,,Bot
