@@ -1,6 +1,6 @@
 Channel,Created at,Product,Issue,Sub Type,Handled
 Inapp,2026-01-01,,,,Bot
-Inapp,2026-01-01,Waggel Cam Pro,Set Up,,Human
+Inapp,2026-01-01,Waggle Cam pro,Set Up,,Human
 Inapp,2026-01-01,RV Mini Cam,Connection,,Human
 Inapp,2026-01-01,,,,Bot
 Inapp,2026-01-01,,,,Bot
@@ -12,12 +12,12 @@ Inapp,2026-01-01,PM,GPS Issue,,Human
 Inapp,2026-01-01,,,,Bot
 Inapp,2026-01-01,,,,Bot
 Webapp,2026-01-01,,,,Bot
-Inapp,2026-01-01,RV Mini Cam,Tech Query ,,Human
+Inapp,2026-01-01,RV Mini Cam,Tech Query,,Human
 Webapp,2026-01-01,,,,Bot
 Inapp,2026-01-01,,,,Bot
 Inapp,2026-01-01,,,,Bot
 Webapp,2026-01-01,RV Mini Cam,Presales,,Human
-Inapp,2026-01-01,4g Mini Cam,Subscription Activation,,Human
+Inapp,2026-01-01,4g mini,Subscription Activation,,Human
 Webapp,2026-01-01,,,,Bot
 Webapp,2026-01-01,,,,Bot
 Webapp,2026-01-01,,,,Bot
@@ -31,22 +31,22 @@ Inapp,2026-01-02,,,,Bot
 Webapp,2026-01-02,,,,Bot
 Inapp,2026-01-02,PM,Subscription Cancellaiton,,Human
 Inapp,2026-01-02,,,,Bot
-Webapp,2026-01-02,4g Mini Cam,Subscription Activation,,Human
+Webapp,2026-01-02,4g mini,Subscription Activation,,Human
 Webapp,2026-01-02,PM,Subscription Cancellaiton,,Human
 Webapp,2026-01-02,,,,Bot
 Webapp,2026-01-02,,,,Bot
 Inapp,2026-01-02,PM,DNR,,Human
-Inapp,2026-01-02,4g Mini Cam,Subscription Activation - Combo,,Human
+Inapp,2026-01-02,4g mini,Subscription Activation - Combo,,Human
 Webapp,2026-01-02,,,,Bot
-Webapp,2026-01-02,4g Mini Cam,App Navigation,,Human
+Webapp,2026-01-02,4g mini,App Navigation,,Human
 Webapp,2026-01-02,,,,Bot
 Inapp,2026-01-02,,,,Bot
-Inapp,2026-01-02,4g Mini Cam,App Navigation,,Human
-Inapp,2026-01-02,4g Mini Cam,Sound Detection,,Human
+Inapp,2026-01-02,4g mini,App Navigation,,Human
+Inapp,2026-01-02,4g mini,Sound Detection,,Human
 Inapp,2026-01-02,,,,Bot
-Inapp,2026-01-02,PM,Tech Query ,,Human
+Inapp,2026-01-02,PM,Tech Query,,Human
 Inapp,2026-01-02,,,,Bot
-Inapp,2026-01-02,4g Mini Cam,Subscription Activation - Combo,,Human
+Inapp,2026-01-02,4g mini,Subscription Activation - Combo,,Human
 Inapp,2026-01-02,PM,Turning On,,Human
 Inapp,2026-01-02,,,,Bot
 Inapp,2026-01-02,,,,Bot
@@ -63,7 +63,7 @@ Webapp,2026-01-03,PM,DNR,,Human
 Inapp,2026-01-03,PM,Temp Issue,,Human
 Inapp,2026-01-03,,,,Bot
 Inapp,2026-01-03,,,,Bot
-Webapp,2026-01-03,4g Mini Cam,Set Up,,Human
+Webapp,2026-01-03,4g mini,Set Up,,Human
 Inapp,2026-01-03,,,,Bot
 Inapp,2026-01-03,,,,Bot
 Inapp,2026-01-03,,,,Bot
@@ -110,20 +110,20 @@ Inapp,2026-01-05,PM,GPS Issue,,Human
 Inapp,2026-01-05,,,,Bot
 Inapp,2026-01-05,,,,Bot
 Inapp,2026-01-05,,,,Bot
-Inapp,2026-01-05,4g Mini Cam,Motion alerts,,Human
+Inapp,2026-01-05,4g mini,Motion alerts,,Human
 Inapp,2026-01-05,4g camera,Accessories,,Human
-Webapp,2026-01-05,4g Mini Cam,Accessories,,Human
+Webapp,2026-01-05,4g mini,Accessories,,Human
 Webapp,2026-01-05,,,,Bot
-Webapp,2026-01-05,4g Mini Cam,Presales,,Human
+Webapp,2026-01-05,4g mini,Presales,,Human
 Inapp,2026-01-05,,,,Bot
-Inapp,2026-01-05,,,,Bot
-Webapp,2026-01-05,,,,Bot
 Inapp,2026-01-05,,,,Bot
 Webapp,2026-01-05,,,,Bot
 Inapp,2026-01-05,,,,Bot
 Webapp,2026-01-05,,,,Bot
 Inapp,2026-01-05,,,,Bot
-Inapp,2026-01-05,Waggle Cam Pro,Registration Issue,,Human
+Webapp,2026-01-05,,,,Bot
+Inapp,2026-01-05,,,,Bot
+Inapp,2026-01-05,Waggle Cam pro,Registration Issue,,Human
 Inapp,2026-01-05,RV Mini Cam,Subscription Activation,,Human
 Inapp,2026-01-05,,,,Bot
 Inapp,2026-01-05,PM,Battery Issue,,Human
@@ -133,13 +133,13 @@ Webapp,2026-01-06,,,,Bot
 Inapp,2026-01-06,,,,Bot
 Webapp,2026-01-06,,,,Bot
 Inapp,2026-01-06,,,,Bot
-Inapp,2026-01-06,4g Mini Cam,Sound Detection,,Human
+Inapp,2026-01-06,4g mini,Sound Detection,,Human
 Inapp,2026-01-06,,,,Bot
 Inapp,2026-01-06,,,,Bot
-Inapp,2026-01-06,4g Mini Cam,Connection,,Human
+Inapp,2026-01-06,4g mini,Connection,,Human
 Inapp,2026-01-06,PM,DNR,,Human
 Webapp,2026-01-06,,,,Bot
-Inapp,2026-01-06,4g Mini Cam,Subscription Activation - Combo,,Human
+Inapp,2026-01-06,4g mini,Subscription Activation - Combo,,Human
 Inapp,2026-01-06,,,,Bot
 Inapp,2026-01-06,,,,Bot
 Webapp,2026-01-06,,,,Bot
@@ -170,12 +170,12 @@ Webapp,2026-01-07,4g camera,Presales,,Human
 Webapp,2026-01-07,,,,Bot
 Inapp,2026-01-07,PM,Login Issue,,Human
 Webapp,2026-01-07,,,,Bot
-Inapp,2026-01-07,4g Mini Cam,Subscription Activation,,Human
+Inapp,2026-01-07,4g mini,Subscription Activation,,Human
 Inapp,2026-01-07,,,,Bot
-Inapp,2026-01-07,Waggle Cam Pro,Login Issue,,Human
-Webapp,2026-01-07,Waggle Cam Pro,Login Issue,,Human
-Inapp,2026-01-07,Waggle Cam Pro,Presales,,Human
-Webapp,2026-01-07,4g Mini Cam,Motion alerts,,Human
+Inapp,2026-01-07,Waggle Cam pro,Login Issue,,Human
+Webapp,2026-01-07,Waggle Cam pro,Login Issue,,Human
+Inapp,2026-01-07,Waggle Cam pro,Presales,,Human
+Webapp,2026-01-07,4g mini,Motion alerts,,Human
 Inapp,2026-01-07,,,,Bot
 Webapp,2026-01-07,,,,Bot
 Inapp,2026-01-07,,,,Bot
@@ -188,8 +188,8 @@ Webapp,2026-01-07,PM,Presales,,Human
 Inapp,2026-01-08,PM,GPS Issue,,Human
 Inapp,2026-01-08,,,,Bot
 Webapp,2026-01-08,,,,Bot
-Inapp,2026-01-08,Waggle Cam Pro,Presales,,Human
-Webapp,2026-01-08,4g Mini Cam,Subscription query,,Human
+Inapp,2026-01-08,Waggle Cam pro,Presales,,Human
+Webapp,2026-01-08,4g mini,Subscription query,,Human
 Webapp,2026-01-08,PM,DNR,,Human
 Inapp,2026-01-08,RV Mini Cam,Subscription Cancellaiton,,Human
 Webapp,2026-01-08,,,,Bot
@@ -197,14 +197,14 @@ Webapp,2026-01-08,,,,Bot
 Inapp,2026-01-08,,,,Bot
 Webapp,2026-01-08,NA,No Reason,,Human
 Webapp,2026-01-08,,,,Bot
-Inapp,2026-01-08,Waggle Cam Pro,Connection,,Human
+Inapp,2026-01-08,Waggle Cam pro,Connection,,Human
 Webapp,2026-01-08,PM,Login Issue,,Human
 Webapp,2026-01-08,,,,Bot
 Inapp,2026-01-08,,,,Bot
 Inapp,2026-01-08,,,,Bot
 Webapp,2026-01-08,,,,Bot
 Webapp,2026-01-08,,,,Bot
-Webapp,2026-01-08,4g Mini Cam,Login Issue,,Human
+Webapp,2026-01-08,4g mini,Login Issue,,Human
 Inapp,2026-01-08,,,,Bot
 Inapp,2026-01-08,PM,DNR,,Human
 Inapp,2026-01-08,RV Mini Cam,Motion alerts,,Human
@@ -213,8 +213,8 @@ Inapp,2026-01-08,,,,Bot
 Inapp,2026-01-08,,,,Bot
 Inapp,2026-01-08,,,,Bot
 Inapp,2026-01-08,,,,Bot
-Webapp,2026-01-08,4g Mini Cam,Subscription Activation,,Human
-Webapp,2026-01-08,4g Mini Cam,Connection,,Human
+Webapp,2026-01-08,4g mini,Subscription Activation,,Human
+Webapp,2026-01-08,4g mini,Connection,,Human
 Webapp,2026-01-09,,,,Bot
 Inapp,2026-01-09,,,,Bot
 Inapp,2026-01-09,,,,Bot
@@ -227,9 +227,9 @@ Webapp,2026-01-09,,,,Bot
 Inapp,2026-01-09,PM,DNR,,Human
 Webapp,2026-01-09,,,,Bot
 Inapp,2026-01-09,,,,Bot
-Inapp,2026-01-09,PM,Tech Query ,,Human
+Inapp,2026-01-09,PM,Tech Query,,Human
 Inapp,2026-01-09,,,,Bot
-Inapp,2026-01-09,4g Mini Cam,Connection,,Human
+Inapp,2026-01-09,4g mini,Connection,,Human
 Inapp,2026-01-09,PM,Power Recovery Not Sent,,Human
 Inapp,2026-01-09,,,,Bot
 Inapp,2026-01-09,,,,Bot
@@ -239,7 +239,7 @@ Inapp,2026-01-09,,,,Bot
 Inapp,2026-01-09,,,,Bot
 Webapp,2026-01-09,PM,Login Issue,,Human
 Inapp,2026-01-09,PM,Return & refund,,Human
-Webapp,2026-01-09,4g Mini Cam,Subscription Activation - Combo,,Human
+Webapp,2026-01-09,4g mini,Subscription Activation - Combo,,Human
 Inapp,2026-01-09,PM,Login Issue,,Human
 Inapp,2026-01-09,,,,Bot
 Webapp,2026-01-10,,,,Bot
@@ -267,10 +267,10 @@ Webapp,2026-01-10,,,,Bot
 Webapp,2026-01-10,,,,Bot
 Inapp,2026-01-10,RV Mini Cam,Accessories,,Human
 Webapp,2026-01-10,PM,Presales,,Human
-Inapp,2026-01-10,Waggle Cam Pro,Treat Tosser Issue,,Human
+Inapp,2026-01-10,Waggle Cam pro,Treat Tosser Issue,,Human
 Inapp,2026-01-10,,,,Bot
 Webapp,2026-01-10,,,,Bot
-Webapp,2026-01-10,4g Mini Cam,Presales,,Human
+Webapp,2026-01-10,4g mini,Presales,,Human
 Inapp,2026-01-10,,,,Bot
 Inapp,2026-01-10,PM,DNR,,Human
 Webapp,2026-01-10,PM,False Power Loss,,Human
@@ -281,7 +281,7 @@ Inapp,2026-01-10,,,,Bot
 Inapp,2026-01-10,,,,Bot
 Webapp,2026-01-10,PM,Humidity Issue,,Human
 Inapp,2026-01-10,PM,Charging Issue,,Human
-Webapp,2026-01-10,PM,Tech Query ,,Human
+Webapp,2026-01-10,PM,Tech Query,,Human
 Inapp,2026-01-10,,,,Bot
 Webapp,2026-01-11,,,,Bot
 Inapp,2026-01-11,,,,Bot
@@ -290,7 +290,7 @@ Webapp,2026-01-11,PM,Subscription Activation,,Human
 Inapp,2026-01-11,PM,Subscription Cancellaiton,,Human
 Webapp,2026-01-11,,,,Bot
 Webapp,2026-01-11,,,,Bot
-Inapp,2026-01-11,4g Mini Cam,Login Issue,,Human
+Inapp,2026-01-11,4g mini,Login Issue,,Human
 Webapp,2026-01-11,,,,Bot
 Inapp,2026-01-11,,,,Bot
 Webapp,2026-01-11,,,,Bot
@@ -307,7 +307,7 @@ Webapp,2026-01-11,,,,Bot
 Inapp,2026-01-11,,,,Bot
 Webapp,2026-01-11,,,,Bot
 Inapp,2026-01-11,RV Mini Cam,Subscription Activation,,Human
-Webapp,2026-01-11,4g Mini Cam,Presales,,Human
+Webapp,2026-01-11,4g mini,Presales,,Human
 Webapp,2026-01-11,,,,Bot
 Inapp,2026-01-12,PM,Subscription Cancellaiton,,Human
 Inapp,2026-01-12,,,,Bot
@@ -316,7 +316,7 @@ Inapp,2026-01-12,PM,Accessories,,Human
 Webapp,2026-01-12,,,,Bot
 Inapp,2026-01-12,,,,Bot
 Inapp,2026-01-12,RV Mini Cam,Connection,,Human
-Inapp,2026-01-12,Waggle Cam Pro,Squeaky Sound,,Human
+Inapp,2026-01-12,Waggle Cam pro,Squeaky Sound,,Human
 Inapp,2026-01-12,,,,Bot
 Webapp,2026-01-12,,,,Bot
 Inapp,2026-01-12,RV Mini Cam,Connection,,Human
@@ -326,7 +326,7 @@ Inapp,2026-01-12,PM,Temp Issue,,Human
 Webapp,2026-01-12,,,,Bot
 Webapp,2026-01-12,,,,Bot
 Inapp,2026-01-12,,,,Bot
-Inapp,2026-01-12,4g Mini Cam,Subscription Activation - Combo,,Human
+Inapp,2026-01-12,4g mini,Subscription Activation - Combo,,Human
 Webapp,2026-01-12,PM,Turning On,,Human
 Inapp,2026-01-12,,,,Bot
 Webapp,2026-01-12,,,,Bot
@@ -346,12 +346,12 @@ Webapp,2026-01-13,PM,Presales,,Human
 Inapp,2026-01-13,,,,Bot
 Inapp,2026-01-13,,,,Bot
 Webapp,2026-01-13,,,,Bot
-Webapp,2026-01-13,PM,Tech Query ,,Human
+Webapp,2026-01-13,PM,Tech Query,,Human
 Inapp,2026-01-13,RV Mini Cam,Connection,,Human
 Inapp,2026-01-13,,,,Bot
 Inapp,2026-01-13,,,,Bot
 Inapp,2026-01-13,,,,Bot
-Inapp,2026-01-13,Waggel Cam Pro,Connection,,Human
+Inapp,2026-01-13,Waggle Cam pro,Connection,,Human
 Inapp,2026-01-13,,,,Bot
 Inapp,2026-01-13,PM,Login Issue,,Human
 Webapp,2026-01-13,PM,Profile - Dog Breed,,Human
@@ -371,7 +371,7 @@ Inapp,2026-01-14,PM,DNR,,Human
 Inapp,2026-01-14,RV Mini Cam,Connection,,Human
 Webapp,2026-01-14,,,,Bot
 Inapp,2026-01-14,,,,Bot
-Webapp,2026-01-14,4g Mini Cam,Subscription Activation,,Human
+Webapp,2026-01-14,4g mini,Subscription Activation,,Human
 Inapp,2026-01-14,,,,Bot
 Inapp,2026-01-14,,,,Bot
 Inapp,2026-01-14,PM,DNR,,Human
@@ -384,28 +384,28 @@ Webapp,2026-01-15,PM,Presales,,Human
 Inapp,2026-01-15,,,,Bot
 Webapp,2026-01-15,PM,Battery Issue,,Human
 Webapp,2026-01-15,,,,Bot
-Inapp,2026-01-15,Waggle Cam Pro,Connection,,Human
-Webapp,2026-01-15,RV Mini Cam,Tech Query ,,Human
+Inapp,2026-01-15,Waggle Cam pro,Connection,,Human
+Webapp,2026-01-15,RV Mini Cam,Tech Query,,Human
 Webapp,2026-01-15,PM,Subscription query,,Human
 Webapp,2026-01-15,PM,Subscription Activation,,Human
 Webapp,2026-01-15,Waggel Insurance,Waggel Insurance,,Human
 Inapp,2026-01-15,,,,Bot
 Webapp,2026-01-15,PM,Subscription Activation,,Human
 Inapp,2026-01-15,PM,DNR,,Human
-Inapp,2026-01-15,4g Mini Cam,Connection,,Human
+Inapp,2026-01-15,4g mini,Connection,,Human
 Inapp,2026-01-15,,,,Bot
 Inapp,2026-01-15,PM,DNR,,Human
 Inapp,2026-01-15,PM,Subscription Mapping Issue,,Human
-Inapp,2026-01-15,4g Mini Cam,Noise Issue,,Human
+Inapp,2026-01-15,4g mini,Noise Issue,,Human
 Inapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,NA,No Reason,,Human
 Webapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,PM,DNR,,Human
 Inapp,2026-01-16,RV Mini Cam,Multiple Login,,Human
-Webapp,2026-01-16,4g Mini Cam,Connection,,Human
+Webapp,2026-01-16,4g mini,Connection,,Human
 Webapp,2026-01-16,4g camera,Return & refund,,Human
 Inapp,2026-01-16,,,,Bot
-Inapp,2026-01-16,Waggle Cam Pro,Subscription query,,Human
+Inapp,2026-01-16,Waggle Cam pro,Subscription query,,Human
 Webapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,PM,Subscription Activation,,Human
 Webapp,2026-01-16,,,,Bot
@@ -414,25 +414,25 @@ Inapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,,,,Bot
-Inapp,2026-01-16,4g Mini Cam,Connection,,Human
+Inapp,2026-01-16,4g mini,Connection,,Human
 Webapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
-Webapp,2026-01-16,4g Mini Cam,Battery Issue,,Human
+Webapp,2026-01-16,4g mini,Battery Issue,,Human
 Webapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,PM,DNR,,Human
 Webapp,2026-01-16,PM,Subscription Cancellaiton,,Human
 Inapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
-Inapp,2026-01-16,4g Mini Cam,App Navigation,,Human
+Inapp,2026-01-16,4g mini,App Navigation,,Human
 Inapp,2026-01-16,PM,DNR,,Human
 Webapp,2026-01-16,,,,Bot
 Inapp,2026-01-16,,,,Bot
-Inapp,2026-01-16,4g Mini Cam,Subscription Mapping Issue,,Human
+Inapp,2026-01-16,4g mini,Subscription Mapping Issue,,Human
 Inapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
 Webapp,2026-01-16,,,,Bot
@@ -449,7 +449,7 @@ Webapp,2026-01-17,,,,Bot
 Inapp,2026-01-17,PM,DNR,,Human
 Inapp,2026-01-17,,,,Bot
 Inapp,2026-01-17,PM,Subscription Activation,,Human
-Webapp,2026-01-17,4g Mini Cam,Tech Query ,,Human
+Webapp,2026-01-17,4g mini,Tech Query,,Human
 Webapp,2026-01-17,,,,Bot
 Inapp,2026-01-17,,,,Bot
 Inapp,2026-01-17,,,,Bot
@@ -485,12 +485,12 @@ Webapp,2026-01-18,PM,Subscription Cancellaiton,,Human
 Inapp,2026-01-18,,,,Bot
 Inapp,2026-01-18,,,,Bot
 Webapp,2026-01-18,,,,Bot
-Webapp,2026-01-18,PM,Tech Query ,,Human
+Webapp,2026-01-18,PM,Tech Query,,Human
 Webapp,2026-01-18,,,,Bot
 Webapp,2026-01-18,PM,Subscription Cancellaiton,,Human
 Webapp,2026-01-18,,,,Bot
 Inapp,2026-01-18,,,,Bot
-Webapp,2026-01-18,Waggle Cam Pro,Device Removal,,Human
+Webapp,2026-01-18,Waggle Cam pro,Device Removal,,Human
 Inapp,2026-01-18,PM,Subscription Activation - Combo,,Human
 Webapp,2026-01-18,PM,Accessories,,Human
 Inapp,2026-01-18,,,,Bot
@@ -501,10 +501,10 @@ Inapp,2026-01-18,PM,DNR,,Human
 Inapp,2026-01-18,,,,Bot
 Inapp,2026-01-18,,,,Bot
 Webapp,2026-01-18,,,,Bot
-Webapp,2026-01-18,4g Mini Cam,Tech Query ,,Human
+Webapp,2026-01-18,4g mini,Tech Query,,Human
 Inapp,2026-01-18,,,,Bot
-Inapp,2026-01-19,4g Mini Cam,Set Up,,Human
-Inapp,2026-01-19,4g Mini Cam,Registration Issue,,Human
+Inapp,2026-01-19,4g mini,Set Up,,Human
+Inapp,2026-01-19,4g mini,Registration Issue,,Human
 Webapp,2026-01-19,,,,Bot
 Inapp,2026-01-19,,,,Bot
 Inapp,2026-01-19,,,,Bot
@@ -538,7 +538,7 @@ Inapp,2026-01-20,,,,Bot
 Webapp,2026-01-20,,,,Bot
 Inapp,2026-01-20,,,,Bot
 Webapp,2026-01-20,,,,Bot
-Inapp,2026-01-20,4g Mini Cam,App Navigation,,Human
+Inapp,2026-01-20,4g mini,App Navigation,,Human
 Webapp,2026-01-20,,,,Bot
 Inapp,2026-01-20,,,,Bot
 Webapp,2026-01-20,RV Mini Cam,Presales,,Human
@@ -546,7 +546,7 @@ Inapp,2026-01-20,PM,DNR,,Human
 Webapp,2026-01-20,,,,Bot
 Webapp,2026-01-20,,,,Bot
 Inapp,2026-01-20,,,,Bot
-Inapp,2026-01-20,4g Mini Cam,Subscription Activation,,Human
+Inapp,2026-01-20,4g mini,Subscription Activation,,Human
 Webapp,2026-01-20,PM,DNR,,Human
 Inapp,2026-01-20,,,,Bot
 Webapp,2026-01-20,,,,Bot
@@ -578,14 +578,14 @@ Inapp,2026-01-21,,,,Bot
 Webapp,2026-01-21,,,,Bot
 Webapp,2026-01-21,,,,Bot
 Inapp,2026-01-21,,,,Bot
-Inapp,2026-01-21,Waggle Smart Sensor,Connection,,Human
+Inapp,2026-01-21,Smart Sensor,Connection,,Human
 Inapp,2026-01-21,PM,DNR,,Human
 Inapp,2026-01-21,PM,Subscription Cancellaiton,,Human
 Inapp,2026-01-21,,,,Bot
 Inapp,2026-01-21,,,,Bot
 Webapp,2026-01-21,,,,Bot
 Webapp,2026-01-21,,,,Bot
-Inapp,2026-01-21,4g Mini Cam,Device Query,,Human
+Inapp,2026-01-21,4g mini,Device Query,,Human
 Webapp,2026-01-21,,,,Bot
 Inapp,2026-01-21,,,,Bot
 Webapp,2026-01-21,NA,No Reason,,Human
@@ -602,7 +602,7 @@ Inapp,2026-01-22,,,,Bot
 Inapp,2026-01-22,,,,Bot
 Inapp,2026-01-22,,,,Bot
 Webapp,2026-01-22,,,,Bot
-Inapp,2026-01-22,4g Mini Cam,Device Removal,,Human
+Inapp,2026-01-22,4g mini,Device Removal,,Human
 Inapp,2026-01-22,,,,Bot
 Inapp,2026-01-22,,,,Bot
 Webapp,2026-01-22,PM,Upgrade,,Human
@@ -618,9 +618,9 @@ Webapp,2026-01-23,,,,Bot
 Inapp,2026-01-23,PM,Flexi Plan Confusion,,Human
 Inapp,2026-01-23,,,,Bot
 Webapp,2026-01-23,PM,Presales,,Human
-Inapp,2026-01-23,4g Mini Cam,Connection,,Human
+Inapp,2026-01-23,4g mini,Connection,,Human
 Inapp,2026-01-23,PM,Text Alerts Exhausted,,Human
-Inapp,2026-01-23,Waggle Smart Sensor,Connection,,Human
+Inapp,2026-01-23,Smart Sensor,Connection,,Human
 Webapp,2026-01-23,,,,Bot
 Inapp,2026-01-23,RV Mini Cam,Multiple Login,,Human
 Inapp,2026-01-23,RV Mini Cam,Multiple Login,,Human
@@ -634,7 +634,7 @@ Webapp,2026-01-23,,,,Bot
 Inapp,2026-01-23,PM,Display Issue,,Human
 Inapp,2026-01-23,PM,Replcement Set Up,,Human
 Webapp,2026-01-23,,,,Bot
-Webapp,2026-01-23,4g Mini Cam,Presales,,Human
+Webapp,2026-01-23,4g mini,Presales,,Human
 Webapp,2026-01-23,,,,Bot
 Inapp,2026-01-23,PM,Subscription Activation,,Human
 Webapp,2026-01-23,,,,Bot
@@ -658,7 +658,7 @@ Webapp,2026-01-24,PM,App Navigation,,Human
 Inapp,2026-01-24,PM,Temp Issue,,Human
 Inapp,2026-01-24,4g camera,Connection,,Human
 Inapp,2026-01-24,,,,Bot
-Inapp,2026-01-24,Waggel Cam Pro,Motion alerts,,Human
+Inapp,2026-01-24,Waggle Cam pro,Motion alerts,,Human
 Inapp,2026-01-24,PM,DNR,,Human
 Inapp,2026-01-24,,,,Bot
 Inapp,2026-01-24,PM,Temp Issue,,Human
@@ -673,31 +673,31 @@ Inapp,2026-01-24,PM,App Navigation,,Human
 Webapp,2026-01-24,,,,Bot
 Webapp,2026-01-24,,,,Bot
 Inapp,2026-01-24,,,,Bot
-Inapp,2026-01-24,4g Mini Cam,App Navigation,,Human
+Inapp,2026-01-24,4g mini,App Navigation,,Human
 Inapp,2026-01-24,,,,Bot
 Inapp,2026-01-24,,,,Bot
 Webapp,2026-01-24,,,,Bot
 Webapp,2026-01-24,,,,Bot
-Inapp,2026-01-24,4g Mini Cam,Subscription Mapping Issue,,Human
+Inapp,2026-01-24,4g mini,Subscription Mapping Issue,,Human
 Inapp,2026-01-24,,,,Bot
 Inapp,2026-01-24,,,,Bot
 Webapp,2026-01-24,PM,Subscription query,,Human
 Webapp,2026-01-24,,,,Bot
 Webapp,2026-01-25,,,,Bot
-Inapp,2026-01-25,4g Mini Cam,Turning On,,Human
-Inapp,2026-01-25,4g Mini Cam,Subscription Activation - Combo,,Human
+Inapp,2026-01-25,4g mini,Turning On,,Human
+Inapp,2026-01-25,4g mini,Subscription Activation - Combo,,Human
 Webapp,2026-01-25,PM,Battery Issue,,Human
 Inapp,2026-01-25,,,,Bot
-Webapp,2026-01-25,4g Mini Cam,Return & refund,,Human
+Webapp,2026-01-25,4g mini,Return & refund,,Human
 Inapp,2026-01-25,RV Mini Cam,Registration Issue,,Human
 Webapp,2026-01-25,,,,Bot
-Webapp,2026-01-25,4g Mini Cam,Presales,,Human
+Webapp,2026-01-25,4g mini,Presales,,Human
 Webapp,2026-01-25,PM,Order Status,,Human
 Inapp,2026-01-25,PM,DNR,,Human
 Inapp,2026-01-25,PM,DNR,,Human
 Inapp,2026-01-25,,,,Bot
 Webapp,2026-01-25,,,,Bot
-Webapp,2026-01-25,4g Mini Cam,Subscription Activation,,Human
+Webapp,2026-01-25,4g mini,Subscription Activation,,Human
 Inapp,2026-01-25,PM,DNR,,Human
 Inapp,2026-01-25,,,,Bot
 Inapp,2026-01-25,PM,DNR,,Human
@@ -727,7 +727,7 @@ Inapp,2026-01-26,PM,DNR,,Human
 Webapp,2026-01-26,,,,Bot
 Inapp,2026-01-26,,,,Bot
 Webapp,2026-01-26,PM,Presales,,Human
-Webapp,2026-01-26,4g Mini Cam,Presales,,Human
+Webapp,2026-01-26,4g mini,Presales,,Human
 Inapp,2026-01-26,PM,Turning On,,Human
 Inapp,2026-01-27,,,,Bot
 Webapp,2026-01-27,,,,Bot
@@ -736,11 +736,11 @@ Webapp,2026-01-27,,,,Bot
 Inapp,2026-01-27,,,,Bot
 Inapp,2026-01-27,,,,Bot
 Inapp,2026-01-27,PM,DNR,,Human
-Inapp,2026-01-27,4g Mini Cam,Device Query,,Human
+Inapp,2026-01-27,4g mini,Device Query,,Human
 Inapp,2026-01-27,PM,Accessories,,Human
 Webapp,2026-01-27,PM,Subscription Cancellaiton,,Human
 Webapp,2026-01-27,,,,Bot
-Inapp,2026-01-27,4g Mini Cam,Referral Query,,Human
+Inapp,2026-01-27,4g mini,Referral Query,,Human
 Inapp,2026-01-27,PM,DNR,,Human
 Inapp,2026-01-27,,,,Bot
 Webapp,2026-01-27,,,,Bot
@@ -757,9 +757,9 @@ Inapp,2026-01-27,,,,Bot
 Webapp,2026-01-27,,,,Bot
 Webapp,2026-01-27,RV Mini Cam,Connection,,Human
 Inapp,2026-01-27,,,,Bot
-Inapp,2026-01-27,4g Mini Cam,Subscription Activation,,Human
+Inapp,2026-01-27,4g mini,Subscription Activation,,Human
 Webapp,2026-01-27,,,,Bot
-Webapp,2026-01-28,4g Mini Cam,Presales,,Human
+Webapp,2026-01-28,4g mini,Presales,,Human
 Inapp,2026-01-28,,,,Bot
 Webapp,2026-01-28,,,,Bot
 Webapp,2026-01-28,RV Mini Cam,Presales,,Human
@@ -785,23 +785,23 @@ Webapp,2026-01-28,PM,DNR,,Human
 Webapp,2026-01-28,RV Mini Cam,Presales,,Human
 Inapp,2026-01-28,,,,Bot
 Inapp,2026-01-28,,,,Bot
-Webapp,2026-01-28,Waggel Cam Pro,Connection,,Human
+Webapp,2026-01-28,Waggle Cam pro,Connection,,Human
 Inapp,2026-01-29,,,,Bot
 Webapp,2026-01-29,,,,Bot
 Inapp,2026-01-29,,,,Bot
 Inapp,2026-01-29,,,,Bot
 Webapp,2026-01-29,,,,Bot
-Inapp,2026-01-29,4g Mini Cam,Connection,,Human
+Inapp,2026-01-29,4g mini,Connection,,Human
 Inapp,2026-01-29,Waggel Insurance,Waggel Insurance,,Human
 Inapp,2026-01-29,,,,Bot
 Webapp,2026-01-29,,,,Bot
 Inapp,2026-01-29,PM,DNR,,Human
-Webapp,2026-01-29,4g Mini Cam,Presales,,Human
+Webapp,2026-01-29,4g mini,Presales,,Human
 Inapp,2026-01-29,,,,Bot
 Inapp,2026-01-29,PM,DNR,,Human
 Webapp,2026-01-29,,,,Bot
 Inapp,2026-01-29,,,,Bot
-Webapp,2026-01-29,4g Mini Cam,Subscription Activation,,Human
+Webapp,2026-01-29,4g mini,Subscription Activation,,Human
 Inapp,2026-01-29,,,,Bot
 Inapp,2026-01-29,,,,Bot
 Webapp,2026-01-29,,,,Bot
@@ -829,12 +829,12 @@ Inapp,2026-01-30,PM,Subscription Cancellaiton,,Human
 Webapp,2026-01-30,,,,Bot
 Webapp,2026-01-30,,,,Bot
 Webapp,2026-01-30,PM,Subscription Cancellaiton,,Human
-Inapp,2026-01-30,Waggle Cam Pro,Connection,,Human
+Inapp,2026-01-30,Waggle Cam pro,Connection,,Human
 Inapp,2026-01-31,PM,Flexi Plan Confusion,,Human
 Inapp,2026-01-31,PM,DNR,,Human
 Webapp,2026-01-31,RV Mini Cam,Subscription Activation,,Human
 Inapp,2026-01-31,PM,Subscription Cancellaiton,,Human
-Webapp,2026-01-31,4g Mini Cam,order related,,Human
+Webapp,2026-01-31,4g mini,order related,,Human
 Inapp,2026-01-31,PM,DNR,,Human
 Webapp,2026-01-31,,,,Bot
 Inapp,2026-01-31,PM,DNR,,Human
@@ -850,7 +850,7 @@ Webchat,2026-02-01,,,,Bot
 Inapp,2026-02-01,,,,Bot
 Webchat,2026-02-01,,,,Bot
 Webchat,2026-02-01,PM,Subs Activation,Activation Steps,Human
-Inapp,2026-02-01,4G Camera,Subs Cancellation,Steps,Human
+Inapp,2026-02-01,4g camera,Subs Cancellation,Steps,Human
 Inapp,2026-02-01,PM,InApp Notification,Not receiving,Human
 Inapp,2026-02-01,PM,DNR,Reset Not working,Human
 Webchat,2026-02-01,PM,Alerts,Limit,Human
@@ -879,7 +879,7 @@ Inapp,2026-02-02,,,,Bot
 Webchat,2026-02-02,,,,Bot
 Webchat,2026-02-02,,,,Bot
 Webchat,2026-02-02,,,,Bot
-Inapp,2026-02-02,4G Mini,Sim not Found,,Human
+Inapp,2026-02-02,4g mini,Sim not Found,,Human
 Inapp,2026-02-02,,,,Bot
 Inapp,2026-02-02,,,,Bot
 Webchat,2026-02-02,PM,Subs Cancellation,Steps,Human
@@ -891,7 +891,7 @@ Inapp,2026-02-02,,,,Bot
 Webchat,2026-02-02,,,,Bot
 Inapp,2026-02-02,,,,Bot
 Inapp,2026-02-02,PM,DNR,Back reset,Human
-Inapp,2026-02-02,4G Mini,Streaming,from another Device,Human
+Inapp,2026-02-02,4g mini,Streaming,from another Device,Human
 Webchat,2026-02-02,PM,Return & refund,Policy,Human
 Inapp,2026-02-02,,,,Bot
 Webchat,2026-02-02,,,,Bot
@@ -918,7 +918,7 @@ Inapp,2026-02-03,PM,Battery Issue,Not charging,Human
 Inapp,2026-02-03,,,,Bot
 Webchat,2026-02-03,,,,Bot
 Inapp,2026-02-03,,,,Bot
-Inapp,2026-02-03,4G Mini,Audio Issue,Button not working,Human
+Inapp,2026-02-03,4g mini,Audio Issue,Button not working,Human
 Webchat,2026-02-03,,,,Bot
 Inapp,2026-02-03,,,,Bot
 Webchat,2026-02-03,,,,Bot
@@ -929,9 +929,9 @@ Inapp,2026-02-03,,,,Bot
 Webchat,2026-02-03,,,,Bot
 Webchat,2026-02-03,PM,Subs Activation,Activate monthly plan in app,Human
 Webchat,2026-02-03,,,,Bot
-Inapp,2026-02-03,4G Mini,App Query,Turn off cam form app,Human
+Inapp,2026-02-03,4g mini,App Query,Turn off cam form app,Human
 Inapp,2026-02-04,,,,Bot
-Inapp,2026-02-04,PM,Display ,LED blinking,Human
+Inapp,2026-02-04,PM,Display,LED blinking,Human
 Webchat,2026-02-04,,,,Bot
 Inapp,2026-02-04,,,,Bot
 Webchat,2026-02-04,,,,Bot
@@ -951,7 +951,7 @@ Webchat,2026-02-04,PM,Setup,,Human
 Inapp,2026-02-04,,,,Bot
 Inapp,2026-02-04,PM,Error 121,Display,Human
 Webchat,2026-02-04,PM,Address change,Order related,Human
-Inapp,2026-02-04,PM,Display ,not working,Human
+Inapp,2026-02-04,PM,Display,not working,Human
 Webchat,2026-02-04,PM,DNR,Reset Not working,Human
 Inapp,2026-02-04,RV Mini Cam,App Navigation,notifcation off,Human
 Inapp,2026-02-04,,,,Bot
@@ -971,19 +971,19 @@ Webchat,2026-02-04,,,,Bot
 Webchat,2026-02-04,,,,Bot
 Webchat,2026-02-04,,,,Bot
 Webchat,2026-02-04,,,,Bot
-Webchat,2026-02-04,4G Mini,Presales,Subs Price,Human
+Webchat,2026-02-04,4g mini,Presales,Subs Price,Human
 Webchat,2026-02-04,PM,Return & refund,Process,Human
 Inapp,2026-02-04,,,,Bot
 Inapp,2026-02-04,,,,Bot
 Webchat,2026-02-04,,,,Bot
-Inapp,2026-02-05,4G Mini,Flip,How to do,Human
+Inapp,2026-02-05,4g mini,Flip,How to do,Human
 Inapp,2026-02-05,,,,Bot
 Inapp,2026-02-05,,,,Bot
-Inapp,2026-02-05,4G Mini,Connection,,Human
-Inapp,2026-02-05,4G Mini,Subs Activation,Additional camera,Human
-Inapp,2026-02-05,4G Mini,Subs Activation,Price query,Human
+Inapp,2026-02-05,4g mini,Connection,,Human
+Inapp,2026-02-05,4g mini,Subs Activation,Additional camera,Human
+Inapp,2026-02-05,4g mini,Subs Activation,Price query,Human
 Inapp,2026-02-05,,,,Bot
-Inapp,2026-02-05,4G Mini,Sim not Found,,Human
+Inapp,2026-02-05,4g mini,Sim not Found,,Human
 Webchat,2026-02-05,,,,Bot
 Webchat,2026-02-05,,,,Bot
 Webchat,2026-02-05,,,,Bot
@@ -996,16 +996,16 @@ Webchat,2026-02-05,PM,App Navigation,Update payement Method,Human
 Inapp,2026-02-05,,,,Bot
 Webchat,2026-02-05,,,,Bot
 Webchat,2026-02-05,,,,Bot
-Webchat,2026-02-05,4G Camera,Accessories,Whats included,Human
+Webchat,2026-02-05,4g camera,Accessories,Whats included,Human
 Inapp,2026-02-05,,,,Bot
 Inapp,2026-02-05,,,,Bot
 Inapp,2026-02-05,,,,Bot
 Inapp,2026-02-05,,,,Bot
 Inapp,2026-02-05,,,,Bot
-Inapp,2026-02-05,4G Mini,Presales,Offers,Human
+Inapp,2026-02-05,4g mini,Presales,Offers,Human
 Webchat,2026-02-05,,,,Bot
 Webchat,2026-02-05,,,,Bot
-Inapp,2026-02-06,Waggle Cam Pro,Connection, Not connecting,Human
+Inapp,2026-02-06,Waggle Cam pro,Connection,Not connecting,Human
 Inapp,2026-02-06,,,,Bot
 Inapp,2026-02-06,,,,Bot
 Inapp,2026-02-06,PM,App Navigation,Alert History,Human
@@ -1027,7 +1027,7 @@ Webchat,2026-02-06,,,,Bot
 Inapp,2026-02-06,PM,DNR,Reset Not working,Human
 Webchat,2026-02-06,,,,Bot
 Inapp,2026-02-06,,,,Bot
-Inapp,2026-02-06,4G Mini,App Navigation,Battery %,Human
+Inapp,2026-02-06,4g mini,App Navigation,Battery %,Human
 Webchat,2026-02-06,PM,Presales,GPS,Human
 Inapp,2026-02-06,,,,Bot
 Inapp,2026-02-06,PM,Device Removal,Upgraded,Human
@@ -1052,7 +1052,7 @@ Inapp,2026-02-07,,,,Bot
 Webchat,2026-02-07,,,,Bot
 Inapp,2026-02-07,,,,Bot
 Webchat,2026-02-07,,,,Bot
-Inapp,2026-02-07,4G Mini,multi-user-access,,Human
+Inapp,2026-02-07,4g mini,multi-user-access,,Human
 Webchat,2026-02-07,,,,Bot
 Inapp,2026-02-07,,,,Bot
 Inapp,2026-02-07,PM,Battery query,Battery %,Human
@@ -1076,47 +1076,47 @@ Inapp,2026-02-08,PM,Subs Reactivation,discount,Human
 Inapp,2026-02-08,,,,Bot
 Webchat,2026-02-08,,,,Bot
 Webchat,2026-02-08,,,,Bot
-Inapp,2026-02-08,4G Mini,Presales,Network carrier,Human
+Inapp,2026-02-08,4g mini,Presales,Network carrier,Human
 Webchat,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
-Inapp,2026-02-08,4G Mini,Login,wrong cred,Human
-Inapp,2026-02-08,4G Mini,Presales,DIscount Code Request,Human
+Inapp,2026-02-08,4g mini,Login,wrong cred,Human
+Inapp,2026-02-08,4g mini,Presales,DIscount Code Request,Human
 Inapp,2026-02-08,PM,Subs Activation - Combo,Combo Plan Query,Human
 Inapp,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
-Inapp,2026-02-08,4G Mini,Login,wrong cred,Human
+Inapp,2026-02-08,4g mini,Login,wrong cred,Human
 Webchat,2026-02-08,,,,Bot
 Webchat,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
-Inapp,2026-02-08,4G Mini,InApp Notification,,Human
-Inapp,2026-02-08,4G Camera,motion detection,,Human
+Inapp,2026-02-08,4g mini,InApp Notification,,Human
+Inapp,2026-02-08,4g camera,motion detection,,Human
 Webchat,2026-02-08,,,,Bot
 Inapp,2026-02-08,PM,Support related,,Human
 Webchat,2026-02-08,,,,Bot
 Webchat,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
 Inapp,2026-02-08,,,,Bot
-Webchat,2026-02-09,4G Camera,motion detection,Range,Human
+Webchat,2026-02-09,4g camera,motion detection,Range,Human
 Inapp,2026-02-09,,,,Bot
 Inapp,2026-02-09,,,,Bot
 Webchat,2026-02-09,,,,Bot
 Inapp,2026-02-09,,,,Bot
 Webchat,2026-02-09,,,,Bot
-Inapp,2026-02-09,4G Mini,Device Query,Non Magnetic Part,Human
-Webchat,2026-02-09,4G Mini,Subs Activation,DIscount Code Request,Human
-Webchat,2026-02-09,4G Mini,Support related,copy of support ticket,Human
+Inapp,2026-02-09,4g mini,Device Query,Non Magnetic Part,Human
+Webchat,2026-02-09,4g mini,Subs Activation,DIscount Code Request,Human
+Webchat,2026-02-09,4g mini,Support related,copy of support ticket,Human
 Inapp,2026-02-09,,,,Bot
 Webchat,2026-02-09,PM,Device Query,Network carrier,Human
 Inapp,2026-02-09,,,,Bot
 Webchat,2026-02-09,,,,Bot
 Webchat,2026-02-09,PM,Support related,Live chat,Human
-Webchat,2026-02-09,4G Mini,Pan tilt,not working,Human
+Webchat,2026-02-09,4g mini,Pan tilt,not working,Human
 Webchat,2026-02-09,,,,Bot
 Webchat,2026-02-09,,,,Bot
-Inapp,2026-02-09,4G Mini,App Navigation,Recording,Human
+Inapp,2026-02-09,4g mini,App Navigation,Recording,Human
 Webchat,2026-02-09,,,,Bot
 Inapp,2026-02-09,,,,Bot
 Inapp,2026-02-09,,,,Bot
@@ -1125,13 +1125,13 @@ Inapp,2026-02-09,,,,Bot
 Webchat,2026-02-09,,,,Bot
 Webchat,2026-02-09,PM,App Navigation,Subs cancellation,Human
 Inapp,2026-02-09,PM,Sub Query,reactivation related,Human
-Inapp,2026-02-09,4G Mini,Sub Query,Combo upgrade,Human
+Inapp,2026-02-09,4g mini,Sub Query,Combo upgrade,Human
 Webchat,2026-02-09,,,,Bot
 Inapp,2026-02-09,,,,Bot
 Webchat,2026-02-09,PM,Sub Query,Flexi and pause,Human
 Inapp,2026-02-09,RV Mini Cam,Connection,How to do,Human
 Inapp,2026-02-09,,,,Bot
-Inapp,2026-02-09,4G Mini,Subs Downgrade,Query,Human
+Inapp,2026-02-09,4g mini,Subs Downgrade,Query,Human
 Inapp,2026-02-10,,,,Bot
 Webchat,2026-02-10,,,,Bot
 Inapp,2026-02-10,,,,Bot
@@ -1162,18 +1162,18 @@ Inapp,2026-02-10,,,,Bot
 Inapp,2026-02-10,PM,Pet Profile,Not Updating,Human
 Webchat,2026-02-10,,,,Bot
 Inapp,2026-02-10,,,,Bot
-Inapp,2026-02-10,4G Mini,multi-user-access,,Human
+Inapp,2026-02-10,4g mini,multi-user-access,,Human
 Inapp,2026-02-10,,,,Bot
 Webchat,2026-02-10,,,,Bot
 Webchat,2026-02-10,,,,Bot
-Inapp,2026-02-10,4G Mini,Presales,Subs Price,Human
+Inapp,2026-02-10,4g mini,Presales,Subs Price,Human
 Inapp,2026-02-10,,,,Bot
 Webchat,2026-02-10,,,,Bot
 Webchat,2026-02-11,,,,Bot
-Webchat,2026-02-11,4G Camera,LED Issue,,Human
+Webchat,2026-02-11,4g camera,LED Issue,,Human
 Inapp,2026-02-11,,,,Bot
 Webchat,2026-02-11,,,,Bot
-Webchat,2026-02-11,4G Mini,Subs Activation,DIscount Code Request,Human
+Webchat,2026-02-11,4g mini,Subs Activation,DIscount Code Request,Human
 Inapp,2026-02-11,,,,Bot
 Webchat,2026-02-11,,,,Bot
 Inapp,2026-02-11,,,,Bot
@@ -1215,7 +1215,7 @@ Inapp,2026-02-12,PM,Display,query,Human
 Webchat,2026-02-12,,,,Bot
 Inapp,2026-02-12,,,,Bot
 Webchat,2026-02-12,,,,Bot
-Webchat,2026-02-12,4G Mini,Device Query,Mounting Related,Human
+Webchat,2026-02-12,4g mini,Device Query,Mounting Related,Human
 Inapp,2026-02-12,,,,Bot
 Webchat,2026-02-12,PM,Login,Mapping prob,Human
 Webchat,2026-02-12,,,,Bot
@@ -1240,7 +1240,7 @@ Inapp,2026-02-13,,,,Bot
 Webchat,2026-02-13,,,,Bot
 Inapp,2026-02-13,PM,App Navigation,,Human
 Webchat,2026-02-13,,,,Bot
-Webchat,2026-02-13,4G Mini,Presales,Charging Query,Human
+Webchat,2026-02-13,4g mini,Presales,Charging Query,Human
 Webchat,2026-02-13,,,,Bot
 Inapp,2026-02-13,RV Mini Cam,Connection,,Human
 Webchat,2026-02-13,,,,Bot
@@ -1283,16 +1283,16 @@ Inapp,2026-02-14,,,,Bot
 Inapp,2026-02-14,,,,Bot
 Webchat,2026-02-14,,,,Bot
 Inapp,2026-02-14,PM,Registration Query,Replacment Device,Human
-Inapp,2026-02-14,PM,Display ,,Human
+Inapp,2026-02-14,PM,Display,,Human
 Webchat,2026-02-14,,,,Bot
 Inapp,2026-02-14,,,,Bot
 Inapp,2026-02-14,,,,Bot
 Inapp,2026-02-14,,,,Bot
-Inapp,2026-02-14,4G Mini,Rotation Issue,,Human
+Inapp,2026-02-14,4g mini,Rotation Issue,,Human
 Webchat,2026-02-14,,,,Bot
 Webchat,2026-02-14,NA,No reason,,Human
 Webchat,2026-02-14,,,,Bot
-Inapp,2026-02-14,4G Mini,Device Query,Apple Watch Comp.,Human
+Inapp,2026-02-14,4g mini,Device Query,Apple Watch Comp.,Human
 Inapp,2026-02-14,,,,Bot
 Inapp,2026-02-14,,,,Bot
 Inapp,2026-02-14,,,,Bot
@@ -1330,7 +1330,7 @@ Webchat,2026-02-16,,,,Bot
 Webchat,2026-02-16,,,,Bot
 Webchat,2026-02-16,,,,Bot
 Webchat,2026-02-16,,,,Bot
-Webchat,2026-02-16,4G Camera,Device Query,Network carrier,Human
+Webchat,2026-02-16,4g camera,Device Query,Network carrier,Human
 Webchat,2026-02-16,,,,Bot
 Inapp,2026-02-16,PM,App Issue,,Human
 Inapp,2026-02-16,,,,Bot
@@ -1345,7 +1345,7 @@ Inapp,2026-02-16,,,,Bot
 Inapp,2026-02-16,,,,Bot
 Inapp,2026-02-16,,,,Bot
 Inapp,2026-02-16,PM,Subs Activation - Combo,Activation Steps,Human
-Webchat,2026-02-16,PM,Display ,,Human
+Webchat,2026-02-16,PM,Display,,Human
 Inapp,2026-02-16,PM,DNR,Reset Not working,Human
 Inapp,2026-02-17,,,,Bot
 Inapp,2026-02-17,,,,Bot
@@ -1358,7 +1358,7 @@ Webchat,2026-02-17,,,,Bot
 Webchat,2026-02-17,,,,Bot
 Webchat,2026-02-17,,,,Bot
 Inapp,2026-02-17,,,,Bot
-Inapp,2026-02-17,Waggle Cam Pro,Subs Cancellation,Marketing Issue,Human
+Inapp,2026-02-17,Waggle Cam pro,Subs Cancellation,Marketing Issue,Human
 Inapp,2026-02-17,PM,DNR,Reset Not working,Human
 Inapp,2026-02-17,,,,Bot
 Inapp,2026-02-17,,,,Bot
@@ -1385,7 +1385,7 @@ Webchat,2026-02-18,,,,Bot
 Webchat,2026-02-18,,,,Bot
 Inapp,2026-02-18,,,,Bot
 Webchat,2026-02-18,,,,Bot
-Inapp,2026-02-18,4G Mini,Subs Activation,Mapping prob,Human
+Inapp,2026-02-18,4g mini,Subs Activation,Mapping prob,Human
 Inapp,2026-02-18,,,,Bot
 Inapp,2026-02-18,,,,Bot
 Inapp,2026-02-18,PM,Charging Query,Charging LED Query,Human
@@ -1401,9 +1401,9 @@ Webchat,2026-02-18,,,,Bot
 Inapp,2026-02-18,,,,Bot
 Inapp,2026-02-18,PM,Subs Mapping,,Human
 Inapp,2026-02-18,,,,Bot
-Webchat,2026-02-18,4G Mini,Presales,Battery Life,Human
+Webchat,2026-02-18,4g mini,Presales,Battery Life,Human
 Inapp,2026-02-18,,,,Bot
-Webchat,2026-02-18,4G Mini,Subs Activation,pack of 3,Human
+Webchat,2026-02-18,4g mini,Subs Activation,pack of 3,Human
 Inapp,2026-02-18,,,,Bot
 Webchat,2026-02-18,,,,Bot
 Inapp,2026-02-19,,,,Bot
@@ -1442,15 +1442,15 @@ Inapp,2026-02-19,,,,Bot
 Webchat,2026-02-20,,,,Bot
 Webchat,2026-02-20,,,,Bot
 Webchat,2026-02-20,,,,Bot
-Inapp,2026-02-20,4G Mini,Connection,,Human
+Inapp,2026-02-20,4g mini,Connection,,Human
 Inapp,2026-02-20,PM,Sub Query,Flexi Plan Query,Human
 Inapp,2026-02-20,,,,Bot
-Inapp,2026-02-20,4G Mini,Registration Query,Unable to scan QR code,Human
+Inapp,2026-02-20,4g mini,Registration Query,Unable to scan QR code,Human
 Inapp,2026-02-20,PM,DNR,Battery Reset,Human
 Inapp,2026-02-20,,,,Bot
 Webchat,2026-02-20,,,,Bot
 Webchat,2026-02-20,PM,Device Query,Power On Button - Old PM,Human
-Inapp,2026-02-20,4G Mini,Registration Issue,Unable to scan QR code,Human
+Inapp,2026-02-20,4g mini,Registration Issue,Unable to scan QR code,Human
 Webchat,2026-02-20,,,,Bot
 Webchat,2026-02-20,,,,Bot
 Inapp,2026-02-20,,,,Bot
@@ -1490,11 +1490,11 @@ Webchat,2026-02-21,,,,Bot
 Webchat,2026-02-21,,,,Bot
 Inapp,2026-02-21,PM,App Navigation,SMS turn Off,Human
 Webchat,2026-02-21,PM,Marketing Emails,Unsubscribe,Human
-Webchat,2026-02-21,4G Camera,motion detection,Not tracking,Human
+Webchat,2026-02-21,4g camera,motion detection,Not tracking,Human
 Inapp,2026-02-21,,,,Bot
 Inapp,2026-02-21,,,,Bot
 Webchat,2026-02-21,,,,Bot
-Webchat,2026-02-21,4G Mini,Accessories,Mounting Bracket,Human
+Webchat,2026-02-21,4g mini,Accessories,Mounting Bracket,Human
 Webchat,2026-02-21,,,,Bot
 Webchat,2026-02-21,,,,Bot
 Webchat,2026-02-21,PM,Subs Cancellation,Refund,Human
@@ -1507,20 +1507,20 @@ Webchat,2026-02-21,PM,Presales,Subs related,Human
 Webchat,2026-02-22,PM,Order,Status,Human
 Inapp,2026-02-22,,,,Bot
 Inapp,2026-02-22,,,,Bot
-Webchat,2026-02-22,4G Camera,Presales,functionalities,Human
+Webchat,2026-02-22,4g camera,Presales,functionalities,Human
 Inapp,2026-02-22,,,,Bot
-Webchat,2026-02-22,4G Mini,Presales,Order related,Human
+Webchat,2026-02-22,4g mini,Presales,Order related,Human
 Inapp,2026-02-22,,,,Bot
 Webchat,2026-02-22,,,,Bot
-Webchat,2026-02-22,4G Mini,Sub Query,pack of 3,Human
+Webchat,2026-02-22,4g mini,Sub Query,pack of 3,Human
 Webchat,2026-02-22,,,,Bot
 Inapp,2026-02-22,,,,Bot
 Inapp,2026-02-22,,,,Bot
 Inapp,2026-02-22,,,,Bot
 Inapp,2026-02-22,PM,Registration Issue,Second Hand Device,Human
 Inapp,2026-02-22,,,,Bot
-Webchat,2026-02-22,4G Mini,Registration Query,Add Additional Cam,Human
-Inapp,2026-02-22,4G Mini,App Navigation,Video Feed,Human
+Webchat,2026-02-22,4g mini,Registration Query,Add Additional Cam,Human
+Inapp,2026-02-22,4g mini,App Navigation,Video Feed,Human
 Inapp,2026-02-22,,,,Bot
 Inapp,2026-02-22,RV Mini Cam,Connection,Streaming Issue,Human
 Inapp,2026-02-22,PM,Login,wrong cred,Human
@@ -1534,7 +1534,7 @@ Inapp,2026-02-22,PM,DNR,Battery Reset,Human
 Webchat,2026-02-22,PM,Order,Status,Human
 Inapp,2026-02-23,,,,Bot
 Inapp,2026-02-23,RV Mini Cam,Connection,Streaming Issue,Human
-Webapp,2026-02-23,4G Mini,Sub Query,Price query,Human
+Webapp,2026-02-23,4g mini,Sub Query,Price query,Human
 Inapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
 Inapp,2026-02-23,,,,Bot
@@ -1543,21 +1543,21 @@ Webapp,2026-02-23,,,,Bot
 Inapp,2026-02-23,,,,Bot
 Inapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
-Inapp,2026-02-23,4G Mini,App Navigation,Flip,Human
+Inapp,2026-02-23,4g mini,App Navigation,Flip,Human
 Webapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,PM,Order,Status,Human
 Inapp,2026-02-23,PM,Display,Query,Human
 Inapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
-Inapp,2026-02-23,4G Mini,Sim not Found,,Human
+Inapp,2026-02-23,4g mini,Sim not Found,,Human
 Inapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
 Webapp,2026-02-23,,,,Bot
 Inapp,2026-02-23,PM,DNR,Further steps,Human
-Inapp,2026-02-23,4G Mini,Login,wrong cred,Human
+Inapp,2026-02-23,4g mini,Login,wrong cred,Human
 Webapp,2026-02-23,,,,Bot
 Inapp,2026-02-23,,,,Bot
 Inapp,2026-02-23,PM,DNR,Further steps,Human
@@ -1573,17 +1573,17 @@ Webapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,PM,Subs Activation,Mapping prob,Human
-Webapp,2026-02-24,4G Mini,Accessories,Mount Broken,Human
+Webapp,2026-02-24,4g mini,Accessories,Mount Broken,Human
 Inapp,2026-02-24,PM,Subs Activation,Mapping prob,Human
-Inapp,2026-02-24,4G Mini,Subs Cancellation,,Human
+Inapp,2026-02-24,4g mini,Subs Cancellation,,Human
 Inapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
 Inapp,2026-02-24,PM,DNR,Battery Reset,Human
-Inapp,2026-02-24,4G Mini,No camera found,,Human
+Inapp,2026-02-24,4g mini,No camera found,,Human
 Webapp,2026-02-24,,,,Bot
-Webapp,2026-02-24,4G Mini,Presales,functionalities,Human
+Webapp,2026-02-24,4g mini,Presales,functionalities,Human
 Inapp,2026-02-24,,,,Bot
 Inapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
@@ -1595,7 +1595,7 @@ Webapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
 Webapp,2026-02-24,,,,Bot
 Inapp,2026-02-24,PM,DNR,Further steps,Human
-Inapp,2026-02-24,4G Mini,Device Query,Network carrier,Human
+Inapp,2026-02-24,4g mini,Device Query,Network carrier,Human
 Inapp,2026-02-24,,,,Bot
 Inapp,2026-02-24,,,,Bot
 Inapp,2026-02-24,,,,Bot
@@ -1609,7 +1609,7 @@ Inapp,2026-02-25,,,,Bot
 Webapp,2026-02-25,,,,Bot
 Inapp,2026-02-25,,,,Bot
 Webapp,2026-02-25,,,,Bot
-Webapp,2026-02-25,4G Mini,Presales,functionalities,Human
+Webapp,2026-02-25,4g mini,Presales,functionalities,Human
 Webapp,2026-02-25,,,,Bot
 Webapp,2026-02-25,,,,Bot
 Webapp,2026-02-25,,,,Bot
@@ -1620,11 +1620,11 @@ Webapp,2026-02-25,,,,Bot
 Webapp,2026-02-25,,,,Bot
 Inapp,2026-02-25,,,,Bot
 Inapp,2026-02-25,,,,Bot
-Inapp,2026-02-25,4G Mini,App Navigation,Rotation,Human
+Inapp,2026-02-25,4g mini,App Navigation,Rotation,Human
 Webapp,2026-02-25,,,,Bot
 Webapp,2026-02-25,,,,Bot
 Inapp,2026-02-25,,,,Bot
-Webapp,2026-02-25,4G Mini,motion detection,Video Not Available,Human
+Webapp,2026-02-25,4g mini,motion detection,Video Not Available,Human
 Webapp,2026-02-25,PM,Sub Query,Price query,Human
 Inapp,2026-02-25,PM,DNR,Further steps,Human
 Inapp,2026-02-25,PM,Account Transfer,,Human
@@ -1660,7 +1660,7 @@ Webapp,2026-02-26,,,,Bot
 Webapp,2026-02-26,PM,Accessories,,Human
 Webapp,2026-02-26,PM,DNR,Further steps,Human
 Inapp,2026-02-26,,,,Bot
-Webapp,2026-02-26,Waggle Cam Pro,Treat Toss,Schedule,Human
+Webapp,2026-02-26,Waggle Cam pro,Treat Toss,Schedule,Human
 Webapp,2026-02-26,,,,Bot
 Inapp,2026-02-26,,,,Bot
 Inapp,2026-02-26,,,,Bot
@@ -1679,7 +1679,7 @@ Inapp,2026-02-27,,,,Bot
 Webapp,2026-02-27,,,,Bot
 Webapp,2026-02-27,,,,Bot
 Inapp,2026-02-27,,,,Bot
-Inapp,2026-02-27,4G Mini,App Navigation,Motion Recording,Human
+Inapp,2026-02-27,4g mini,App Navigation,Motion Recording,Human
 Webapp,2026-02-27,RV Mini Cam,Connection,,Human
 Webapp,2026-02-27,NA,No reason,,Human
 Inapp,2026-02-27,,,,Bot
@@ -1693,7 +1693,7 @@ Webapp,2026-02-27,,,,Bot
 Webapp,2026-02-27,,,,Bot
 Inapp,2026-02-27,PM,Subs Activation,Trial Plan,Human
 Inapp,2026-02-27,PM,Charging Query,LED blinking,Human
-Inapp,2026-02-27,4G Mini,Subs Activation,DIscount Code Request,Human
+Inapp,2026-02-27,4g mini,Subs Activation,DIscount Code Request,Human
 Webapp,2026-02-27,,,,Bot
 Inapp,2026-02-27,,,,Bot
 Inapp,2026-02-27,,,,Bot
@@ -1720,7 +1720,7 @@ Inapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
 Webapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
-Inapp,2026-02-28,4G Mini,App Navigation,Add Phone No,Human
+Inapp,2026-02-28,4g mini,App Navigation,Add Phone No,Human
 Inapp,2026-02-28,PM,Registration Issue,Replacment Device,Human
 Inapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
@@ -1728,13 +1728,13 @@ Webapp,2026-02-28,,,,Bot
 Webapp,2026-02-28,,,,Bot
 Webapp,2026-02-28,,,,Bot
 Webapp,2026-02-28,,,,Bot
-Inapp,2026-02-28,4G Mini,Login,,Human
+Inapp,2026-02-28,4g mini,Login,,Human
 Webapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,PM,DNR,,Human
 Inapp,2026-02-28,,,,Bot
-Webapp,2026-02-28,4G Mini,Registration Issue,,Human
-Inapp,2026-02-28,4G Mini,App Navigation,Remove Device,Human
+Webapp,2026-02-28,4g mini,Registration Issue,,Human
+Inapp,2026-02-28,4g mini,App Navigation,Remove Device,Human
 Inapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
@@ -1744,7 +1744,7 @@ Inapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
 Webapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,,,,Bot
-Inapp,2026-02-28,4G Mini,Registration Issue,,Human
+Inapp,2026-02-28,4g mini,Registration Issue,,Human
 Inapp,2026-02-28,,,,Bot
 Inapp,2026-02-28,PM,Device Removal,,Human
 Webapp,2026-02-28,,,,Bot
@@ -1756,7 +1756,7 @@ Inapp,2026-03-01,,,,Bot
 Inapp,2026-03-01,,,,Bot
 Webapp,2026-03-01,,,,Bot
 Inapp,2026-03-01,,,,Bot
-Inapp,2026-03-01,4g Mini,Device Removal,,Human
+Inapp,2026-03-01,4g mini,Device Removal,,Human
 Inapp,2026-03-01,,,,Bot
 Inapp,2026-03-01,PM,DNR,,Human
 Inapp,2026-03-01,PM,DNR,,Human
@@ -1787,7 +1787,7 @@ Inapp,2026-03-01,,,,Bot
 Inapp,2026-03-01,PM,DNR,,Human
 Webapp,2026-03-01,,,,Bot
 Inapp,2026-03-01,PM,DNR,,Human
-Inapp,2026-03-01,4g Mini,Night Vision,Video Quality,Human
+Inapp,2026-03-01,4g mini,Night Vision,Video Quality,Human
 Webapp,2026-03-01,,,,Bot
 Inapp,2026-03-01,PM,DNR,,Human
 Inapp,2026-03-01,,,,Bot
@@ -1874,7 +1874,7 @@ Inapp,2026-03-02,,,,Bot
 Inapp,2026-03-02,,,,Bot
 Inapp,2026-03-02,PM,Not Turning On,,Human
 Inapp,2026-03-02,PM,DNR,,Human
-Webapp,2026-03-02,4g Mini,Not Turning On,,Human
+Webapp,2026-03-02,4g mini,Not Turning On,,Human
 Inapp,2026-03-02,PM,Subs Cancellation,,Human
 Webapp,2026-03-02,PM,Presales,GPS,Human
 Webapp,2026-03-02,,,,Bot
@@ -1885,7 +1885,7 @@ Webapp,2026-03-02,,,,Bot
 Inapp,2026-03-02,,,,Bot
 Inapp,2026-03-02,,,,Bot
 Inapp,2026-03-02,PM,Device Transfer,,Human
-Webapp,2026-03-02,4g Mini,Presales,Motion Detection,Human
+Webapp,2026-03-02,4g mini,Presales,Motion Detection,Human
 Webapp,2026-03-02,,,,Bot
 Inapp,2026-03-02,,,,Bot
 Webapp,2026-03-02,,,,Bot
@@ -1910,7 +1910,7 @@ Inapp,2026-03-03,,,,Bot
 Inapp,2026-03-03,,,,Bot
 Webapp,2026-03-03,,,,Bot
 Inapp,2026-03-03,,,,Bot
-Webapp,2026-03-03,4G Camera,Presales,Functionalities,Human
+Webapp,2026-03-03,4g camera,Presales,Functionalities,Human
 Webapp,2026-03-03,,,,Bot
 Webapp,2026-03-03,,,,Bot
 Inapp,2026-03-03,RV Mini Cam,App Navigation,Unable to find,Human
@@ -1918,23 +1918,23 @@ Inapp,2026-03-03,,,,Bot
 Webapp,2026-03-03,,,,Bot
 Inapp,2026-03-03,,,,Bot
 Webapp,2026-03-03,RV Mini Cam,App Navigation,Joystick Control,Human
-Inapp,2026-03-03,Waggle Cam Pro,App Navigation,Joystick Control,Human
+Inapp,2026-03-03,Waggle Cam pro,App Navigation,Joystick Control,Human
 Webapp,2026-03-03,PM,Upgrade,,Human
 Webapp,2026-03-03,,,,Bot
-Inapp,2026-03-03,Waggle Cam Pro,Not Turning On,,Human
+Inapp,2026-03-03,Waggle Cam pro,Not Turning On,,Human
 Webapp,2026-03-03,,,,Bot
 Webapp,2026-03-03,,,,Bot
-Inapp,2026-03-03,4g Mini,App Navigation,Joystick Control,Human
-Inapp,2026-03-03,4g Mini,App Navigation,Joystick Control,Human
-Inapp,2026-03-03,Waggle Cam Pro,App Navigation,Joystick Control,Human
-Inapp,2026-03-03,4g Mini,App Navigation,Joystick Control,Human
-Inapp,2026-03-03,Waggle Cam Pro,Treat Toss,,Human
+Inapp,2026-03-03,4g mini,App Navigation,Joystick Control,Human
+Inapp,2026-03-03,4g mini,App Navigation,Joystick Control,Human
+Inapp,2026-03-03,Waggle Cam pro,App Navigation,Joystick Control,Human
+Inapp,2026-03-03,4g mini,App Navigation,Joystick Control,Human
+Inapp,2026-03-03,Waggle Cam pro,Treat Toss,,Human
 Webapp,2026-03-03,,,,Bot
 Webapp,2026-03-04,,,,Bot
 Webapp,2026-03-04,,,,Bot
-Inapp,2026-03-04,Waggle Cam Pro,App Navigation,Joystick Control,Human
+Inapp,2026-03-04,Waggle Cam pro,App Navigation,Joystick Control,Human
 Inapp,2026-03-04,,,,Bot
-Inapp,2026-03-04,Waggle Cam Pro,App Navigation,Joystick Control,Human
+Inapp,2026-03-04,Waggle Cam pro,App Navigation,Joystick Control,Human
 Webapp,2026-03-04,,,,Bot
 Inapp,2026-03-04,,,,Bot
 Inapp,2026-03-04,,,,Bot
@@ -1955,7 +1955,7 @@ Webapp,2026-03-04,,,,Bot
 Inapp,2026-03-04,,,,Bot
 Webapp,2026-03-04,,,,Bot
 Inapp,2026-03-04,,,,Bot
-Webapp,2026-03-04,Waggle Cam Pro,Replacment,,Human
+Webapp,2026-03-04,Waggle Cam pro,Replacment,,Human
 Webapp,2026-03-04,,,,Bot
 Inapp,2026-03-04,,,,Bot
 Webapp,2026-03-04,,,,Bot
@@ -1969,7 +1969,7 @@ Webapp,2026-03-04,,,,Bot
 Webapp,2026-03-04,,,,Bot
 Inapp,2026-03-04,,,,Bot
 Webapp,2026-03-05,,,,Bot
-Inapp,2026-03-05,4g Mini,App Navigation,Joystick Control,Human
+Inapp,2026-03-05,4g mini,App Navigation,Joystick Control,Human
 Inapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
 Webapp,2026-03-05,PM,Presales,Subs Inquiry,Human
@@ -1982,16 +1982,16 @@ Webapp,2026-03-05,PM,Charging Query,Charging LED Query,Human
 Inapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
-Inapp,2026-03-05,4g Mini,App Navigation,PW reset,Human
+Inapp,2026-03-05,4g mini,App Navigation,PW reset,Human
 Webapp,2026-03-05,,,,Bot
 Webapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,PM,App Navigation,Temp threshold,Human
-Webapp,2026-03-05,4g Mini,App Issue,Unable to activate,Human
-Webapp,2026-03-05,4g Mini,Subs Mapping,,Human
-Inapp,2026-03-05,4g Mini,Subs Activation,Combo plan,Human
+Webapp,2026-03-05,4g mini,App Issue,Unable to activate,Human
+Webapp,2026-03-05,4g mini,Subs Mapping,,Human
+Inapp,2026-03-05,4g mini,Subs Activation,Combo plan,Human
 Inapp,2026-03-05,PM,Subs Cancellation,,Human
 Inapp,2026-03-05,PM,DNR,,Human
 Inapp,2026-03-05,,,,Bot
@@ -2016,19 +2016,19 @@ Webapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
 Webapp,2026-03-05,,,,Bot
 Inapp,2026-03-05,,,,Bot
-Inapp,2026-03-05,4g Mini,App Navigation,Motion Detection,Human
+Inapp,2026-03-05,4g mini,App Navigation,Motion Detection,Human
 Inapp,2026-03-05,,,,Bot
-Inapp,2026-03-05,4g Mini,Connection,,Human
+Inapp,2026-03-05,4g mini,Connection,,Human
 Webapp,2026-03-05,,,,Bot
 Inapp,2026-03-06,,,,Bot
 Inapp,2026-03-06,,,,Bot
 Webapp,2026-03-06,,,,Bot
-Inapp,2026-03-06,4g Mini,multi-user-access,,Human
+Inapp,2026-03-06,4g mini,multi-user-access,,Human
 Inapp,2026-03-06,,,,Bot
 Inapp,2026-03-06,,,,Bot
 Inapp,2026-03-06,,,,Bot
 Inapp,2026-03-06,,,,Bot
-Inapp,2026-03-06,Waggle Cam Pro,Connection,,Human
+Inapp,2026-03-06,Waggle Cam pro,Connection,,Human
 Inapp,2026-03-06,RV Mini Cam,Connection,,Human
 Inapp,2026-03-06,,,,Bot
 Webapp,2026-03-06,App Issue,Loading,,Human
@@ -2068,35 +2068,35 @@ Webapp,2026-03-06,,,,Bot
 Webapp,2026-03-06,,,,Bot
 Inapp,2026-03-06,,,,Bot
 Webapp,2026-03-06,PM,App Navigation,,Human
-Webapp,2026-03-06,4g Mini,Presales,Functionalities,Human
+Webapp,2026-03-06,4g mini,Presales,Functionalities,Human
 Webapp,2026-03-06,,,,Bot
 Inapp,2026-03-06,PM,DNR,,Human
 Inapp,2026-03-06,,,,Bot
-Inapp,2026-03-06,4g Mini,Subs Activation,,Human
+Inapp,2026-03-06,4g mini,Subs Activation,,Human
 Inapp,2026-03-06,,,,Bot
 Inapp,2026-03-06,PM,Subs Mapping,,Human
 Inapp,2026-03-06,,,,Bot
 Inapp,2026-03-07,,,,Bot
 Inapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,4g Mini,App Navigation,Battery Level,Human
+Inapp,2026-03-07,4g mini,App Navigation,Battery Level,Human
 Inapp,2026-03-07,,,,Bot
 Inapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,Waggle Cam Pro,multi-user-access,,Human
+Inapp,2026-03-07,Waggle Cam pro,multi-user-access,,Human
 Inapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,,,,Bot
-Webapp,2026-03-07,,,,Bot
-Webapp,2026-03-07,,,,Bot
-Webapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,4G Camera,App Navigation,Battery Level,Human
-Webapp,2026-03-07,,,,Bot
-Webapp,2026-03-07,,,,Bot
 Inapp,2026-03-07,,,,Bot
 Inapp,2026-03-07,,,,Bot
 Webapp,2026-03-07,,,,Bot
 Webapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,4g Mini,Presales,Subs Inquiry,Human
+Webapp,2026-03-07,,,,Bot
+Inapp,2026-03-07,,,,Bot
+Inapp,2026-03-07,4g camera,App Navigation,Battery Level,Human
+Webapp,2026-03-07,,,,Bot
+Webapp,2026-03-07,,,,Bot
+Inapp,2026-03-07,,,,Bot
+Inapp,2026-03-07,,,,Bot
+Webapp,2026-03-07,,,,Bot
+Webapp,2026-03-07,,,,Bot
+Inapp,2026-03-07,4g mini,Presales,Subs Inquiry,Human
 Inapp,2026-03-07,,,,Bot
 Webapp,2026-03-07,,,,Bot
 Inapp,2026-03-07,,,,Bot
@@ -2107,13 +2107,13 @@ Inapp,2026-03-07,,,,Bot
 Inapp,2026-03-07,PM,DNR,,Human
 Inapp,2026-03-07,,,,Bot
 Inapp,2026-03-07,,,,Bot
-Inapp,2026-03-07,4G Camera,App Navigation,Noise Alerts,Human
+Inapp,2026-03-07,4g camera,App Navigation,Noise Alerts,Human
 Webapp,2026-03-07,,,,Bot
 Inapp,2026-03-08,,,,Bot
 Inapp,2026-03-08,PM,DNR,,Human
 Inapp,2026-03-08,PM,Presales,Combo plan,Human
 Webapp,2026-03-08,,,,Bot
-Inapp,2026-03-08,4g Mini,App Navigation,Turn Off light,Human
+Inapp,2026-03-08,4g mini,App Navigation,Turn Off light,Human
 Webapp,2026-03-08,,,,Bot
 Webapp,2026-03-08,,,,Bot
 Webapp,2026-03-08,PM,DNR,,Human
@@ -2126,7 +2126,7 @@ Inapp,2026-03-08,,,,Bot
 Inapp,2026-03-08,,,,Bot
 Inapp,2026-03-08,,,,Bot
 Inapp,2026-03-08,,,,Bot
-Inapp,2026-03-08,4g Mini,App Navigation,,Human
+Inapp,2026-03-08,4g mini,App Navigation,,Human
 Inapp,2026-03-08,,,,Bot
 Inapp,2026-03-08,,,,Bot
 Inapp,2026-03-08,,,,Bot
@@ -2162,18 +2162,18 @@ Inapp,2026-03-09,,,,Bot
 Webapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,,,,Bot
 Webapp,2026-03-09,,,,Bot
-Inapp,2026-03-09,4g Mini,App Navigation,Rotation,Human
+Inapp,2026-03-09,4g mini,App Navigation,Rotation,Human
 Inapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,,,,Bot
-Webapp,2026-03-09,4G Camera,App Navigation,Delete History,Human
+Webapp,2026-03-09,4g camera,App Navigation,Delete History,Human
 Inapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,,,,Bot
 Webapp,2026-03-09,,,,Bot
-Inapp,2026-03-09,4G Camera,App Navigation,Motion Alert Turn Off,Human
+Inapp,2026-03-09,4g camera,App Navigation,Motion Alert Turn Off,Human
 Inapp,2026-03-09,,,,Bot
 Inapp,2026-03-09,PM,Device Transfer,,Human
 Webapp,2026-03-09,PM,Subs Activation,Subs Inquiry,Human
@@ -2198,10 +2198,10 @@ Inapp,2026-03-10,,,,Bot
 Inapp,2026-03-10,,,,Bot
 Webapp,2026-03-10,,,,Bot
 Webapp,2026-03-10,,,,Bot
-Inapp,2026-03-10,4G Camera,Solar Panel,,Human
+Inapp,2026-03-10,4g camera,Solar Panel,,Human
 Webapp,2026-03-10,,,,Bot
 Webapp,2026-03-10,PM,Upgrade,,Human
-Inapp,2026-03-10,4g Mini,App Navigation,Battery Level,Human
+Inapp,2026-03-10,4g mini,App Navigation,Battery Level,Human
 Inapp,2026-03-10,Waggel Insurance,NA,NA,Human
 Webapp,2026-03-10,,,,Bot
 Webapp,2026-03-10,,,,Bot
@@ -2212,9 +2212,9 @@ Webapp,2026-03-10,,,,Bot
 Inapp,2026-03-10,,,,Bot
 Webapp,2026-03-10,,,,Bot
 Inapp,2026-03-10,,,,Bot
-Inapp,2026-03-10,4g Mini,Subs Mapping,,Human
+Inapp,2026-03-10,4g mini,Subs Mapping,,Human
 Inapp,2026-03-10,,,,Bot
-Inapp,2026-03-10,4g Mini,Subs Activation,Additional devices,Human
+Inapp,2026-03-10,4g mini,Subs Activation,Additional devices,Human
 Inapp,2026-03-10,RV Mini Cam,App Navigation,Delete Video,Human
 Inapp,2026-03-10,,,,Bot
 Webapp,2026-03-10,,,,Bot
@@ -2233,10 +2233,10 @@ Inapp,2026-03-10,,,,Bot
 Inapp,2026-03-10,PM,Warranty,Activation,Human
 Inapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
-Webapp,2026-03-11,4g Mini,App Navigation,Settings Icon,Human
+Webapp,2026-03-11,4g mini,App Navigation,Settings Icon,Human
 Webapp,2026-03-11,RV Mini Cam,Presales,Offers Related,Human
 Inapp,2026-03-11,,,,Bot
-Inapp,2026-03-11,4g Mini,Subs Activation,Combo plan,Human
+Inapp,2026-03-11,4g mini,Subs Activation,Combo plan,Human
 Webapp,2026-03-11,PM,Return and Refund,,Human
 Inapp,2026-03-11,,,,Bot
 Webapp,2026-03-11,,,,Bot
@@ -2254,15 +2254,15 @@ Webapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,PM,App Navigation,Subs Related,Human
 Inapp,2026-03-11,,,,Bot
 Webapp,2026-03-11,RV Mini Cam,Presales,Functionalities,Human
-Inapp,2026-03-11,4g Mini,App Navigation,Battery Level,Human
-Inapp,2026-03-11,4g Mini,SIM out of Service,,Human
+Inapp,2026-03-11,4g mini,App Navigation,Battery Level,Human
+Inapp,2026-03-11,4g mini,SIM out of Service,,Human
 Webapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
 Webapp,2026-03-11,,,,Bot
 Webapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
-Inapp,2026-03-11,4g Mini,App Navigation,Battery Level,Human
+Inapp,2026-03-11,4g mini,App Navigation,Battery Level,Human
 Webapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,RV Mini Cam,Connection,,Human
 Inapp,2026-03-11,,,,Bot
@@ -2271,7 +2271,7 @@ Webapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
-Inapp,2026-03-11,4g Mini,Connection,,Human
+Inapp,2026-03-11,4g mini,Connection,,Human
 Inapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,,,,Bot
 Inapp,2026-03-11,PM,Registration,QR Code,Human
@@ -2308,8 +2308,8 @@ Webapp,2026-03-12,,,,Bot
 Inapp,2026-03-12,,,,Bot
 Inapp,2026-03-12,,,,Bot
 Inapp,2026-03-12,,,,Bot
-Inapp,2026-03-12,4G Camera,Login Related,,Human
-Inapp,2026-03-12,4G Camera,Device Query,Functionalities,Human
+Inapp,2026-03-12,4g camera,Login Related,,Human
+Inapp,2026-03-12,4g camera,Device Query,Functionalities,Human
 Webapp,2026-03-12,,,,Bot
 Inapp,2026-03-12,,,,Bot
 Inapp,2026-03-12,,,,Bot
@@ -2336,11 +2336,11 @@ Webapp,2026-03-13,PM,Order Related,,Human
 Inapp,2026-03-13,PM,Email ID Change,,Human
 Inapp,2026-03-13,,,,Bot
 Inapp,2026-03-13,,,,Bot
-Inapp,2026-03-13,4g Mini,Trial Plan Query,,Human
+Inapp,2026-03-13,4g mini,Trial Plan Query,,Human
 Inapp,2026-03-13,,,,Bot
 Inapp,2026-03-13,,,,Bot
 Inapp,2026-03-13,PM,Not Turning On,,Human
-Inapp,2026-03-13,4g Mini,Time Format Query,,Human
+Inapp,2026-03-13,4g mini,Time Format Query,,Human
 Inapp,2026-03-13,,,,Bot
 Inapp,2026-03-13,,,,Bot
 Inapp,2026-03-13,,,,Bot
@@ -2370,18 +2370,18 @@ Inapp,2026-03-14,,,,Bot
 Webapp,2026-03-14,,,,Bot
 Inapp,2026-03-14,,,,Bot
 Inapp,2026-03-14,,,,Bot
-Webapp,2026-03-14,4g Mini,Subs Activation,Price inquiry,Human
+Webapp,2026-03-14,4g mini,Subs Activation,Price inquiry,Human
 Webapp,2026-03-14,,,,Bot
 Inapp,2026-03-14,,,,Bot
 Inapp,2026-03-14,,,,Bot
 Webapp,2026-03-14,,,,Bot
 Inapp,2026-03-14,,,,Bot
 Webapp,2026-03-14,,,,Bot
-Inapp,2026-03-14,4g Mini,Device Removal,Sold,Human
+Inapp,2026-03-14,4g mini,Device Removal,Sold,Human
 Inapp,2026-03-14,PM,DNR,,Human
 Inapp,2026-03-14,,,,Bot
 Webapp,2026-03-14,,,,Bot
-Inapp,2026-03-14,4g Mini,App Navigation,Motion Detection,Human
+Inapp,2026-03-14,4g mini,App Navigation,Motion Detection,Human
 Inapp,2026-03-14,,,,Bot
 Webapp,2026-03-14,,,,Bot
 Webapp,2026-03-14,,,,Bot
@@ -2390,11 +2390,11 @@ Inapp,2026-03-15,,,,Bot
 Webapp,2026-03-15,PM,DNR,,Human
 Webapp,2026-03-15,PM,Temp Difference,Old Device,Human
 Webapp,2026-03-15,,,,Bot
-Webapp,2026-03-15,4g Mini,App Navigation,Joystick Control,Human
+Webapp,2026-03-15,4g mini,App Navigation,Joystick Control,Human
 Inapp,2026-03-15,,,,Bot
 Webapp,2026-03-15,,,,Bot
-Inapp,2026-03-15,Waggle Cam Pro,App Navigation,Privacy Settings,Human
-Inapp,2026-03-15,4g Mini,Subs Activation,Price inquiry,Human
+Inapp,2026-03-15,Waggle Cam pro,App Navigation,Privacy Settings,Human
+Inapp,2026-03-15,4g mini,Subs Activation,Price inquiry,Human
 Inapp,2026-03-15,,,,Bot
 Webapp,2026-03-15,PM,Subs Activation,Discount Request,Human
 Webapp,2026-03-15,,,,Bot
@@ -2405,17 +2405,17 @@ Inapp,2026-03-15,RV Mini Cam,App Navigation,Erase Videos,Human
 Inapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,,,,Bot
-Webapp,2026-03-15,4g Mini,Presales,Functionalities,Human
+Webapp,2026-03-15,4g mini,Presales,Functionalities,Human
 Inapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,,,,Bot
-Inapp,2026-03-15,4g Mini,Connection,,Human
+Inapp,2026-03-15,4g mini,Connection,,Human
 Inapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,,,,Bot
 Webapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,PM,Subs Activation,Reactivation Query,Human
-Webapp,2026-03-15,4g Mini,Subs Activation,Additional devices,Human
+Webapp,2026-03-15,4g mini,Subs Activation,Additional devices,Human
 Webapp,2026-03-15,,,,Bot
 Webapp,2026-03-15,,,,Bot
 Inapp,2026-03-15,,,,Bot
@@ -2426,17 +2426,17 @@ Webapp,2026-03-15,PM,Login Related,,Human
 Inapp,2026-03-15,,,,Bot
 Webapp,2026-03-15,,,,Bot
 Webapp,2026-03-15,,,,Bot
-Inapp,2026-03-15,Waggle Cam Pro,App Navigation,Treat Tossing,Human
+Inapp,2026-03-15,Waggle Cam pro,App Navigation,Treat Tossing,Human
 Inapp,2026-03-15,PM,Temp Difference,,Human
 Webapp,2026-03-15,PM,Device Query,Functionalities,Human
-Inapp,2026-03-16,4g Mini,Connection,,Human
+Inapp,2026-03-16,4g mini,Connection,,Human
 Inapp,2026-03-16,,,,Bot
 Inapp,2026-03-16,,,,Bot
-Inapp,2026-03-16,4g Mini,App Navigation,Delete Clips,Human
-Inapp,2026-03-16,4g Mini,Subs Activation,Bundle,Human
+Inapp,2026-03-16,4g mini,App Navigation,Delete Clips,Human
+Inapp,2026-03-16,4g mini,Subs Activation,Bundle,Human
 Webapp,2026-03-16,,,,Bot
 Webapp,2026-03-16,,,,Bot
-Inapp,2026-03-16,4g Mini,App Navigation,Joystick Control,Human
+Inapp,2026-03-16,4g mini,App Navigation,Joystick Control,Human
 Webapp,2026-03-16,PM,Presales,Functionalities,Human
 Inapp,2026-03-16,,,,Bot
 Webapp,2026-03-16,,,,Bot
@@ -2450,7 +2450,7 @@ Inapp,2026-03-16,PM,DNR,,Human
 Webapp,2026-03-16,,,,Bot
 Webapp,2026-03-16,,,,Bot
 Inapp,2026-03-16,,,,Bot
-Webapp,2026-03-16,4G Camera,Return and Refund,,Human
+Webapp,2026-03-16,4g camera,Return and Refund,,Human
 Webapp,2026-03-16,PM,Presales,Subs Inquiry,Human
 Inapp,2026-03-16,,,,Bot
 Webapp,2026-03-16,,,,Bot
@@ -2484,7 +2484,7 @@ Webapp,2026-03-17,,,,Bot
 Webapp,2026-03-17,,,,Bot
 Webapp,2026-03-17,,,,Bot
 Webapp,2026-03-17,,,,Bot
-Webapp,2026-03-17,4g Mini,Feature Request,Camera list management,Human
+Webapp,2026-03-17,4g mini,Feature Request,Camera list management,Human
 Inapp,2026-03-17,,,,Bot
 Webapp,2026-03-17,PM,DNR,,Human
 Webapp,2026-03-17,,,,Bot
@@ -2511,8 +2511,8 @@ Inapp,2026-03-17,,,,Bot
 Inapp,2026-03-17,,,,Bot
 Inapp,2026-03-17,,,,Bot
 Inapp,2026-03-17,,,,Bot
-Webapp,2026-03-17,4g Mini,Auto Tracking,,Human
-Inapp,2026-03-17,4g Mini,Auto Tracking,,Human
+Webapp,2026-03-17,4g mini,Auto Tracking,,Human
+Inapp,2026-03-17,4g mini,Auto Tracking,,Human
 Webapp,2026-03-17,,,,Bot
 Webapp,2026-03-17,,,,Bot
 Inapp,2026-03-18,,,,Bot
@@ -2540,12 +2540,12 @@ Webapp,2026-03-18,,,,Bot
 Webapp,2026-03-18,,,,Bot
 Inapp,2026-03-18,,,,Bot
 Webapp,2026-03-18,PM,Subs Activation,Second Monitor,Human
-Webapp,2026-03-18,4G Camera,Presales,Functionalities,Human
+Webapp,2026-03-18,4g camera,Presales,Functionalities,Human
 Webapp,2026-03-18,,,,Bot
 Inapp,2026-03-18,,,,Bot
-Inapp,2026-03-18,4g Mini,multi-user-access,,Human
+Inapp,2026-03-18,4g mini,multi-user-access,,Human
 Inapp,2026-03-18,,,,Bot
-Inapp,2026-03-18,Waggle Cam Pro,App Issue,Loading,Human
+Inapp,2026-03-18,Waggle Cam pro,App Issue,Loading,Human
 Inapp,2026-03-18,PM,Not Charging,,Human
 Webapp,2026-03-18,,,,Bot
 Webapp,2026-03-18,,,,Bot
@@ -2584,7 +2584,7 @@ Inapp,2026-03-19,,,,Bot
 Inapp,2026-03-19,,,,Bot
 Inapp,2026-03-19,,,,Bot
 Inapp,2026-03-19,,,,Bot
-Inapp,2026-03-19,4g Mini,Connection,,Human
+Inapp,2026-03-19,4g mini,Connection,,Human
 Webapp,2026-03-19,,,,Bot
 Inapp,2026-03-19,,,,Bot
 Inapp,2026-03-19,,,,Bot
@@ -2598,7 +2598,7 @@ Webapp,2026-03-19,,,,Bot
 Webapp,2026-03-19,,,,Bot
 Webapp,2026-03-19,,,,Bot
 Webapp,2026-03-19,PM,Replacment,,Human
-Webapp,2026-03-19,4g Mini,Presales,Subs Inquiry,Human
+Webapp,2026-03-19,4g mini,Presales,Subs Inquiry,Human
 Inapp,2026-03-19,,,,Bot
 Inapp,2026-03-19,RV Mini Cam,App Navigation,Delete Clips,Human
 Webapp,2026-03-19,,,,Bot
@@ -2644,13 +2644,13 @@ Inapp,2026-03-20,PM,DNR,,Human
 Inapp,2026-03-20,,,,Bot
 Webapp,2026-03-20,,,,Bot
 Inapp,2026-03-20,,,,Bot
-Webapp,2026-03-20,4g Mini,Subs Activation,,Human
+Webapp,2026-03-20,4g mini,Subs Activation,,Human
 Webapp,2026-03-20,,,,Bot
 Inapp,2026-03-20,,,,Bot
 Inapp,2026-03-20,PM,Geo Fence Issue,,Human
 Inapp,2026-03-20,,,,Bot
 Webapp,2026-03-20,,,,Bot
-Webapp,2026-03-20,4g Mini,Presales,Color Request,Human
+Webapp,2026-03-20,4g mini,Presales,Color Request,Human
 Inapp,2026-03-20,PM,Alerts not working,,Human
 Inapp,2026-03-20,,,,Bot
 Inapp,2026-03-20,,,,Bot
@@ -2659,13 +2659,13 @@ Inapp,2026-03-21,,,,Bot
 Inapp,2026-03-21,,,,Bot
 Webapp,2026-03-21,,,,Bot
 Inapp,2026-03-21,,,,Bot
-Webapp,2026-03-21,4G Camera,App Navigation,Flip,Human
+Webapp,2026-03-21,4g camera,App Navigation,Flip,Human
 Inapp,2026-03-21,Waggel Insurance,,,Human
 Webapp,2026-03-21,,,,Bot
 Webapp,2026-03-21,,,,Bot
 Inapp,2026-03-21,PM,Registration,Query,Human
 Inapp,2026-03-21,,,,Bot
-Webapp,2026-03-21,4g Mini,Presales,Network Carrier,Human
+Webapp,2026-03-21,4g mini,Presales,Network Carrier,Human
 Inapp,2026-03-21,,,,Bot
 Inapp,2026-03-21,,,,Bot
 Inapp,2026-03-21,,,,Bot
@@ -2706,18 +2706,18 @@ Inapp,2026-03-21,PM,App Navigation,Temp threshold,Human
 Webapp,2026-03-21,,,,Bot
 Webapp,2026-03-21,,,,Bot
 Inapp,2026-03-21,,,,Bot
-Inapp,2026-03-21,4g Mini,Subs Cancellation,,Human
+Inapp,2026-03-21,4g mini,Subs Cancellation,,Human
 Inapp,2026-03-22,,,,Bot
-Webapp,2026-03-22,4g Mini,Subs Cancellation,,Human
-Inapp,2026-03-22,4g Mini,App Issue,Loading,Human
+Webapp,2026-03-22,4g mini,Subs Cancellation,,Human
+Inapp,2026-03-22,4g mini,App Issue,Loading,Human
 Webapp,2026-03-22,,,,Bot
-Inapp,2026-03-22,4g Mini,App Navigation,Erase Videos,Human
+Inapp,2026-03-22,4g mini,App Navigation,Erase Videos,Human
 Inapp,2026-03-22,,,,Bot
 Webapp,2026-03-22,,,,Bot
 Webapp,2026-03-22,,,,Bot
 Inapp,2026-03-22,,,,Bot
-Inapp,2026-03-22,4g Mini,Subs Activation,Discount Request,Human
-Inapp,2026-03-22,4g Mini,Connection,,Human
+Inapp,2026-03-22,4g mini,Subs Activation,Discount Request,Human
+Inapp,2026-03-22,4g mini,Connection,,Human
 Inapp,2026-03-22,,,,Bot
 Webapp,2026-03-22,,,,Bot
 Inapp,2026-03-22,,,,Bot
@@ -2729,7 +2729,7 @@ Webapp,2026-03-22,PM,Order Related,Delivery Issue,Human
 Inapp,2026-03-22,,,,Bot
 Webapp,2026-03-22,PM,Presales,Subs Inquiry,Human
 Webapp,2026-03-22,,,,Bot
-Inapp,2026-03-22,4g Mini,Hardware Damage,,Human
+Inapp,2026-03-22,4g mini,Hardware Damage,,Human
 Inapp,2026-03-22,,,,Bot
 Webapp,2026-03-22,,,,Bot
 Inapp,2026-03-22,PM,DNR,,Human
@@ -2751,7 +2751,7 @@ Webapp,2026-03-22,,,,Bot
 Inapp,2026-03-22,,,,Bot
 Inapp,2026-03-22,,,,Bot
 Inapp,2026-03-23,,,,Bot
-Inapp,2026-03-23,4g Mini,Connection,Streaming,Human
+Inapp,2026-03-23,4g mini,Connection,Streaming,Human
 Webapp,2026-03-23,,,,Bot
 Inapp,2026-03-23,,,,Bot
 Webapp,2026-03-23,PM,Presales,Subs Inquiry,Human
@@ -2795,7 +2795,7 @@ Webapp,2026-03-23,,,,Bot
 Inapp,2026-03-23,,,,Bot
 Webapp,2026-03-23,PM,Presales,Discount Request,Human
 Inapp,2026-03-23,,,,Bot
-Webapp,2026-03-23,4g Mini,Subs Activation,Combo plan,Human
+Webapp,2026-03-23,4g mini,Subs Activation,Combo plan,Human
 Inapp,2026-03-23,,,,Bot
 Inapp,2026-03-23,,,,Bot
 Webapp,2026-03-23,,,,Bot
@@ -2819,7 +2819,7 @@ Inapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,PM,Display Issue,Flickering,Human
-Inapp,2026-03-24,4g Mini,Recording,continuous-playback,Human
+Inapp,2026-03-24,4g mini,Recording,continuous-playback,Human
 Inapp,2026-03-24,,,,Bot
 Webapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,,,,Bot
@@ -2832,9 +2832,9 @@ Webapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,PM,Device Query,Display related,Human
 Webapp,2026-03-24,,,,Bot
-Webapp,2026-03-24,4g Mini,App Navigation,Delete Clips,Human
+Webapp,2026-03-24,4g mini,App Navigation,Delete Clips,Human
 Inapp,2026-03-24,PM,DNR,,Human
-Inapp,2026-03-24,4g Mini,App Issue,Loading,Human
+Inapp,2026-03-24,4g mini,App Issue,Loading,Human
 Inapp,2026-03-24,,,,Bot
 Webapp,2026-03-24,,,,Bot
 Webapp,2026-03-24,,,,Bot
@@ -2845,7 +2845,7 @@ Webapp,2026-03-24,PM,DNR,,Human
 Inapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,,,,Bot
-Inapp,2026-03-24,4g Mini,Presales,Subs Inquiry,Human
+Inapp,2026-03-24,4g mini,Presales,Subs Inquiry,Human
 Inapp,2026-03-24,,,,Bot
 Webapp,2026-03-24,,,,Bot
 Inapp,2026-03-24,,,,Bot
@@ -2854,7 +2854,7 @@ Inapp,2026-03-24,,,,Bot
 Webapp,2026-03-24,,,,Bot
 Inapp,2026-03-25,,,,Bot
 Inapp,2026-03-25,PM,DNR,,Human
-Inapp,2026-03-25,4g Mini,Presales,Functionalities,Human
+Inapp,2026-03-25,4g mini,Presales,Functionalities,Human
 Webapp,2026-03-25,PM,Presales,Functionalities,Human
 Inapp,2026-03-25,,,,Bot
 Webapp,2026-03-25,,,,Bot
@@ -2869,7 +2869,7 @@ Inapp,2026-03-25,,,,Bot
 Webapp,2026-03-25,,,,Bot
 Inapp,2026-03-25,,,,Bot
 Webapp,2026-03-25,,,,Bot
-Inapp,2026-03-25,4g Mini,Connection,,Human
+Inapp,2026-03-25,4g mini,Connection,,Human
 Webapp,2026-03-25,,,,Bot
 Inapp,2026-03-25,RV Mini Cam,Connection,,Human
 Inapp,2026-03-25,,,,Bot
@@ -2880,7 +2880,7 @@ Inapp,2026-03-25,PM,DNR,,Human
 Webapp,2026-03-25,,,,Bot
 Webapp,2026-03-25,PM,DNR,,Human
 Inapp,2026-03-25,,,,Bot
-Inapp,2026-03-25,Waggle Cam Pro,SD card Location,,Human
+Inapp,2026-03-25,Waggle Cam pro,SD card Location,,Human
 Inapp,2026-03-25,,,,Bot
 Webapp,2026-03-25,PM,Login Related,,Human
 Inapp,2026-03-25,PM,Not Charging,,Human
@@ -2907,11 +2907,11 @@ Webapp,2026-03-26,RV Mini Cam,Accessories,,Human
 Webapp,2026-03-26,,,,Bot
 Webapp,2026-03-26,,,,Bot
 Inapp,2026-03-26,,,,Bot
-Webapp,2026-03-26,4G Camera,Subs Activation,Price inquiry,Human
+Webapp,2026-03-26,4g camera,Subs Activation,Price inquiry,Human
 Webapp,2026-03-26,,,,Bot
 Inapp,2026-03-26,,,,Bot
-Webapp,2026-03-26,4g Mini,Accessories,,Human
-Inapp,2026-03-26,4g Mini,App Navigation,Flip,Human
+Webapp,2026-03-26,4g mini,Accessories,,Human
+Inapp,2026-03-26,4g mini,App Navigation,Flip,Human
 Webapp,2026-03-26,NA,Unsupported Camera,,Human
 Webapp,2026-03-26,RV Mini Cam,Connection,,Human
 Webapp,2026-03-26,,,,Bot
@@ -2935,7 +2935,7 @@ Webapp,2026-03-27,PM,multi-user-access,,Human
 Inapp,2026-03-27,,,,Bot
 Webapp,2026-03-27,,,,Bot
 Webapp,2026-03-27,,,,Bot
-Webapp,2026-03-27,4G Camera,Turn Off Light,,Human
+Webapp,2026-03-27,4g camera,Turn Off Light,,Human
 Inapp,2026-03-27,,,,Bot
 Webapp,2026-03-27,,,,Bot
 Inapp,2026-03-27,,,,Bot
@@ -2984,8 +2984,8 @@ Webapp,2026-03-28,,,,Bot
 Webapp,2026-03-28,,,,Bot
 Inapp,2026-03-28,,,,Bot
 Webapp,2026-03-28,,,,Bot
-Inapp,2026-03-28,4G Camera,Registration,,Human
-Webapp,2026-03-28,4g Mini,Subs Activation,Subs Inquiry,Human
+Inapp,2026-03-28,4g camera,Registration,,Human
+Webapp,2026-03-28,4g mini,Subs Activation,Subs Inquiry,Human
 Webapp,2026-03-28,,,,Bot
 Inapp,2026-03-28,,,,Bot
 Inapp,2026-03-28,,,,Bot
@@ -2997,12 +2997,12 @@ Inapp,2026-03-28,,,,Bot
 Webapp,2026-03-28,PM,DNR,,Human
 Webapp,2026-03-28,,,,Bot
 Inapp,2026-03-28,,,,Bot
-Inapp,2026-03-28,4g Mini,Connection,,Human
+Inapp,2026-03-28,4g mini,Connection,,Human
 Webapp,2026-03-28,,,,Bot
 Inapp,2026-03-28,,,,Bot
 Inapp,2026-03-28,,,,Bot
 Inapp,2026-03-28,,,,Bot
-Webapp,2026-03-28,4G Camera,App Issue,Crash,Human
+Webapp,2026-03-28,4g camera,App Issue,Crash,Human
 Inapp,2026-03-28,,,,Bot
 Inapp,2026-03-29,,,,Bot
 Inapp,2026-03-29,,,,Bot
@@ -3032,7 +3032,7 @@ Inapp,2026-03-29,,,,Bot
 Webapp,2026-03-29,,,,Bot
 Inapp,2026-03-29,,,,Bot
 Webapp,2026-03-29,,,,Bot
-Webapp,2026-03-29,4g Mini,Presales,Subs Inquiry,Human
+Webapp,2026-03-29,4g mini,Presales,Subs Inquiry,Human
 Webapp,2026-03-29,,,,Bot
 Inapp,2026-03-29,,,,Bot
 Inapp,2026-03-29,,,,Bot
@@ -3053,7 +3053,7 @@ Webapp,30-03-2026,,,,Bot
 Webapp,30-03-2026,,,,Bot
 Inapp,30-03-2026,,,,Bot
 Inapp,30-03-2026,,,,Bot
-Webapp,30-03-2026,4g Mini,Presales,Network Carrier,Human
+Webapp,30-03-2026,4g mini,Presales,Network Carrier,Human
 Inapp,30-03-2026,,,,Bot
 Inapp,30-03-2026,Waggel Insurance,NA,,Human
 Inapp,30-03-2026,,,,Bot
@@ -3064,7 +3064,7 @@ Inapp,30-03-2026,,,,Bot
 Webapp,30-03-2026,,,,Bot
 Webapp,30-03-2026,,,,Bot
 Inapp,30-03-2026,,,,Bot
-Inapp,30-03-2026,4G Camera,Pan-Tilt Issue,,Human
+Inapp,30-03-2026,4g camera,Pan-Tilt Issue,,Human
 Webapp,30-03-2026,,,,Bot
 Inapp,30-03-2026,PM,Device Removal,,Human
 Webapp,30-03-2026,,,,Bot
@@ -3089,7 +3089,7 @@ Inapp,31-03-2026,,,,Bot
 Webapp,31-03-2026,,,,Bot
 Webapp,31-03-2026,,,,Bot
 Inapp,31-03-2026,,,,Bot
-Webapp,31-03-2026,Waggle Cam Pro,Exchange Query,Size,Human
+Webapp,31-03-2026,Waggle Cam pro,Exchange Query,Size,Human
 Inapp,31-03-2026,,,,Bot
 Webapp,31-03-2026,PM,Charging Issue,Battery Drain,Human
 Webapp,31-03-2026,,,,Bot
@@ -3130,7 +3130,7 @@ Inapp,,,,,Bot
 Webchat,,PM,Subs Mapping,,Human
 Inapp,,,,,Bot
 Webchat,,PM,App Navigation,Profile - Second Pet,Human
-Inapp,,4g Mini,Subs Mapping,Wrong Plan purchased,Human
+Inapp,,4g mini,Subs Mapping,Wrong Plan purchased,Human
 Webchat,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,PM,Subs Cancellation,,Human
@@ -3156,14 +3156,14 @@ Webchat,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
-Webchat,,Waggle Cam Pro,Connection,Reconfigure,Human
+Webchat,,Waggle Cam pro,Connection,Reconfigure,Human
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,PM,Subs Activation,Combo Plan,Human
-Inapp,,4g Mini,Connection,,Human
+Inapp,,4g mini,Connection,,Human
 Webchat,,PM,Subs Cancellation,,Human
-Webchat,,4g Mini,Presales,Subs Inquiry,Human
+Webchat,,4g mini,Presales,Subs Inquiry,Human
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Webchat,,,,,Bot
@@ -3173,7 +3173,7 @@ Webchat,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
-Webchat,,4g Mini,Connection,,Human
+Webchat,,4g mini,Connection,,Human
 Webchat,,,,,Bot
 Webchat,,,,,Bot
 Webchat,,,,,Bot
@@ -3191,7 +3191,7 @@ Webchat,,,,,Bot
 Inapp,,PM,DNR,,Human
 Inapp,,,,,Bot
 Inapp,,,,,Bot
-Inapp,,Waggle Cam Pro,Connection,,Human
+Inapp,,Waggle Cam pro,Connection,,Human
 Inapp,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,PM,DNR,,Human
@@ -3217,7 +3217,7 @@ Inapp,,,,,Bot
 Inapp,,PM,Device Removal,,Human
 Webchat,,,,,Bot
 Inapp,,,,,Bot
-Inapp,,4g Mini,Motion Alerts,,Human
+Inapp,,4g mini,Motion Alerts,,Human
 Webchat,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
@@ -3270,14 +3270,14 @@ Inapp,,RV Mini Cam,Registration Issue,,Human
 Webchat,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
-Inapp,,4g Mini,Connection,,Human
+Inapp,,4g mini,Connection,,Human
 Webchat,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,PM,DNR,,Human
-Webchat,,4g Mini,Presales,Combo Plan,Human
+Webchat,,4g mini,Presales,Combo Plan,Human
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,PM,DNR,,Human
@@ -3286,7 +3286,7 @@ Inapp,,,,,Bot
 Inapp,,,,,Bot
 Webchat,,PM,Presales,Device Model Query,Human
 Webchat,,,,,Bot
-Inapp,,4G Camera,App Loading,,Human
+Inapp,,4g camera,App Loading,,Human
 Inapp,,PM,App Query,Turn Off,Human
 Webchat,,,,,Bot
 Inapp,,,,,Bot
@@ -3304,7 +3304,7 @@ Webchat,,,,,Bot
 Webchat,,PM,Subs Activation,Discount Request,Human
 Inapp,,,,,Bot
 Inapp,,PM,Subs Cancellation,,Human
-Webchat,,4g Mini,SIM Card not Found,,Human
+Webchat,,4g mini,SIM Card not Found,,Human
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
@@ -3316,11 +3316,11 @@ Inapp,,,,,Bot
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
-Webchat,,4g Mini,Accessories,,Human
-Inapp,,4g Mini,Subs Reactivation,Downgrade,Human
+Webchat,,4g mini,Accessories,,Human
+Inapp,,4g mini,Subs Reactivation,Downgrade,Human
 Webchat,,,,,Bot
-Webchat,,4g Mini,Accessories,,Human
-Webchat,,4g Mini,App Navigation,Pan Issue,Human
+Webchat,,4g mini,Accessories,,Human
+Webchat,,4g mini,App Navigation,Pan Issue,Human
 Inapp,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
@@ -3331,19 +3331,19 @@ Webchat,,,,,Bot
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
-Inapp,,4g Mini,Discount Code Request,,Human
+Inapp,,4g mini,Discount Code Request,,Human
 Webchat,,,,,Bot
-Webchat,,4g Mini,Discount Code Request,,Human
-Inapp,,4g Mini,Motion Alerts,,Human
+Webchat,,4g mini,Discount Code Request,,Human
+Inapp,,4g mini,Motion Alerts,,Human
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Webchat,,,,,Bot
 Webchat,,,,,Bot
-Inapp,,4g Mini,Discount Code Request,,Human
-Inapp,,4g Mini,Subs Mapping,,Human
-Webchat,,4g Mini,Plan Mapping,,Human
+Inapp,,4g mini,Discount Code Request,,Human
+Inapp,,4g mini,Subs Mapping,,Human
+Webchat,,4g mini,Plan Mapping,,Human
 Webchat,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
@@ -3370,7 +3370,7 @@ Webchat,,,,,Bot
 Webchat,,PM,Accessories,Stock Issue,Human
 Webchat,,,,,Bot
 Webchat,,PM,Subs Activation,Combo Plan,Human
-Inapp,,Waggle.org,NA,,Human
+Inapp,,Waggle.Org,NA,,Human
 Inapp,,,,,Bot
 Inapp,,,,,Bot
 Inapp,,,,,Bot
@@ -3382,7 +3382,7 @@ Webchat,,RV Mini Cam,Presales,Functionalities,Human
 Webchat,,,,,Bot
 Webchat,,,,,Bot
 Webchat,,,,,Bot
-Webchat,,4G Camera,Device Query,Mounting,Human
+Webchat,,4g camera,Device Query,Mounting,Human
 Inapp,,,,,Bot
 Webchat,,,,,Bot
 Inapp,,PM,DNR,,Human
@@ -3415,7 +3415,7 @@ Inapp,2026-04-01,,,,Bot
 Webapp,2026-04-01,PM,Subs Mapping,,Human
 Inapp,2026-04-01,,,,Bot
 Webapp,2026-04-01,PM,App Navigation,Profile - Second Pet,Human
-Inapp,2026-04-01,4g Mini,Subs Mapping,Wrong Plan purchased,Human
+Inapp,2026-04-01,4g mini,Subs Mapping,Wrong Plan purchased,Human
 Webapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,PM,Subs Cancellation,,Human
@@ -3441,14 +3441,14 @@ Webapp,2026-04-01,,,,Bot
 Webapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,,,,Bot
-Webapp,2026-04-01,Waggle Cam Pro,Connection,Reconfigure,Human
+Webapp,2026-04-01,Waggle Cam pro,Connection,Reconfigure,Human
 Inapp,2026-04-01,,,,Bot
 Webapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,PM,Subs Activation,Combo Plan,Human
-Inapp,2026-04-01,4g Mini,Connection,,Human
+Inapp,2026-04-01,4g mini,Connection,,Human
 Webapp,2026-04-01,PM,Subs Cancellation,,Human
-Webapp,2026-04-01,4g Mini,Presales,Subs Inquiry,Human
+Webapp,2026-04-01,4g mini,Presales,Subs Inquiry,Human
 Inapp,2026-04-01,,,,Bot
 Webapp,2026-04-01,,,,Bot
 Webapp,2026-04-01,,,,Bot
@@ -3458,7 +3458,7 @@ Webapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,,,,Bot
 Inapp,2026-04-01,,,,Bot
-Webapp,2026-04-01,4g Mini,Connection,,Human
+Webapp,2026-04-01,4g mini,Connection,,Human
 Webapp,2026-04-01,,,,Bot
 Webapp,2026-04-01,,,,Bot
 Webapp,2026-04-02,,,,Bot
@@ -3476,7 +3476,7 @@ Webapp,2026-04-02,,,,Bot
 Inapp,2026-04-02,PM,DNR,,Human
 Inapp,2026-04-02,,,,Bot
 Inapp,2026-04-02,,,,Bot
-Inapp,2026-04-02,Waggle Cam Pro,Connection,,Human
+Inapp,2026-04-02,Waggle Cam pro,Connection,,Human
 Inapp,2026-04-02,,,,Bot
 Inapp,2026-04-02,,,,Bot
 Inapp,2026-04-02,PM,DNR,,Human
@@ -3502,7 +3502,7 @@ Inapp,2026-04-03,,,,Bot
 Inapp,2026-04-03,PM,Device Removal,,Human
 Webapp,2026-04-03,,,,Bot
 Inapp,2026-04-03,,,,Bot
-Inapp,2026-04-03,4g Mini,Motion Alerts,,Human
+Inapp,2026-04-03,4g mini,Motion Alerts,,Human
 Webapp,2026-04-03,,,,Bot
 Webapp,2026-04-03,,,,Bot
 Inapp,2026-04-03,,,,Bot
@@ -3555,14 +3555,14 @@ Inapp,2026-04-04,RV Mini Cam,Registration Issue,,Human
 Webapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,,,,Bot
-Inapp,2026-04-04,4g Mini,Connection,,Human
+Inapp,2026-04-04,4g mini,Connection,,Human
 Webapp,2026-04-04,,,,Bot
 Webapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,,,,Bot
 Webapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,PM,DNR,,Human
-Webapp,2026-04-04,4g Mini,Presales,Combo Plan,Human
+Webapp,2026-04-04,4g mini,Presales,Combo Plan,Human
 Inapp,2026-04-04,,,,Bot
 Webapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,PM,DNR,,Human
@@ -3571,7 +3571,7 @@ Inapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,,,,Bot
 Webapp,2026-04-04,PM,Presales,Device Model Query,Human
 Webapp,2026-04-04,,,,Bot
-Inapp,2026-04-04,4G Camera,App Loading,,Human
+Inapp,2026-04-04,4g camera,App Loading,,Human
 Inapp,2026-04-04,PM,App Query,Turn Off,Human
 Webapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,,,,Bot
@@ -3589,7 +3589,7 @@ Webapp,2026-04-04,,,,Bot
 Webapp,2026-04-04,PM,Subs Activation,Discount Request,Human
 Inapp,2026-04-04,,,,Bot
 Inapp,2026-04-04,PM,Subs Cancellation,,Human
-Webapp,2026-04-05,4g Mini,SIM Card not Found,,Human
+Webapp,2026-04-05,4g mini,SIM Card not Found,,Human
 Inapp,2026-04-05,,,,Bot
 Webapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
@@ -3601,11 +3601,11 @@ Inapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
 Webapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
-Webapp,2026-04-05,4g Mini,Accessories,,Human
-Inapp,2026-04-05,4g Mini,Subs Reactivation,Downgrade,Human
+Webapp,2026-04-05,4g mini,Accessories,,Human
+Inapp,2026-04-05,4g mini,Subs Reactivation,Downgrade,Human
 Webapp,2026-04-05,,,,Bot
-Webapp,2026-04-05,4g Mini,Accessories,,Human
-Webapp,2026-04-05,4g Mini,App Navigation,Pan Issue,Human
+Webapp,2026-04-05,4g mini,Accessories,,Human
+Webapp,2026-04-05,4g mini,App Navigation,Pan Issue,Human
 Inapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
@@ -3616,19 +3616,19 @@ Webapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
 Webapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
-Inapp,2026-04-05,4g Mini,Discount Code Request,,Human
+Inapp,2026-04-05,4g mini,Discount Code Request,,Human
 Webapp,2026-04-05,,,,Bot
-Webapp,2026-04-05,4g Mini,Discount Code Request,,Human
-Inapp,2026-04-05,4g Mini,Motion Alerts,,Human
+Webapp,2026-04-05,4g mini,Discount Code Request,,Human
+Inapp,2026-04-05,4g mini,Motion Alerts,,Human
 Inapp,2026-04-05,,,,Bot
 Webapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
 Webapp,2026-04-05,,,,Bot
 Webapp,2026-04-05,,,,Bot
 Webapp,2026-04-05,,,,Bot
-Inapp,2026-04-05,4g Mini,Discount Code Request,,Human
-Inapp,2026-04-05,4g Mini,Subs Mapping,,Human
-Webapp,2026-04-05,4g Mini,Plan Mapping,,Human
+Inapp,2026-04-05,4g mini,Discount Code Request,,Human
+Inapp,2026-04-05,4g mini,Subs Mapping,,Human
+Webapp,2026-04-05,4g mini,Plan Mapping,,Human
 Webapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
 Inapp,2026-04-05,,,,Bot
@@ -3655,7 +3655,7 @@ Webapp,2026-04-06,,,,Bot
 Webapp,2026-04-06,PM,Accessories,Stock Issue,Human
 Webapp,2026-04-06,,,,Bot
 Webapp,2026-04-06,PM,Subs Activation,Combo Plan,Human
-Inapp,2026-04-06,Waggle.org,NA,,Human
+Inapp,2026-04-06,Waggle.Org,NA,,Human
 Inapp,2026-04-06,,,,Bot
 Inapp,2026-04-06,,,,Bot
 Inapp,2026-04-06,,,,Bot
@@ -3667,7 +3667,7 @@ Webapp,2026-04-06,RV Mini Cam,Presales,Functionalities,Human
 Webapp,2026-04-06,,,,Bot
 Webapp,2026-04-06,,,,Bot
 Webapp,2026-04-06,,,,Bot
-Webapp,2026-04-06,4G Camera,Device Query,Mounting,Human
+Webapp,2026-04-06,4g camera,Device Query,Mounting,Human
 Inapp,2026-04-06,,,,Bot
 Webapp,2026-04-06,,,,Bot
 Inapp,2026-04-06,PM,DNR,,Human
@@ -3731,13 +3731,13 @@ Inapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,,,,Bot
-Webapp,2026-04-07,4g Mini,Barking Alert,Feature Request,Human
+Webapp,2026-04-07,4g mini,Barking Alert,Feature Request,Human
 Webapp,2026-04-07,,,,Bot
 Webapp,2026-04-07,,,,Bot
 Webapp,2026-04-07,,,,Bot
 Webapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,Waggle.Org,NA,,Human
-Webapp,2026-04-07,4g Mini,Subs Activation,Combo Plan,Human
+Webapp,2026-04-07,4g mini,Subs Activation,Combo Plan,Human
 Webapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,,,,Bot
 Webapp,2026-04-07,,,,Bot
@@ -3747,7 +3747,7 @@ Inapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,,,,Bot
 Inapp,2026-04-07,,,,Bot
-Webapp,2026-04-08,4g Mini,App Navigation,Turn Off Light,Human
+Webapp,2026-04-08,4g mini,App Navigation,Turn Off Light,Human
 Webapp,2026-04-08,,,,Bot
 Inapp,2026-04-08,,,,Bot
 Webapp,2026-04-08,,,,Bot
@@ -3761,7 +3761,7 @@ Inapp,2026-04-08,,,,Bot
 Webapp,2026-04-08,,,,Bot
 Webapp,2026-04-08,,,,Bot
 Inapp,2026-04-08,,,,Bot
-Webapp,2026-04-08,4g Mini,Device Query,Functionalities,Human
+Webapp,2026-04-08,4g mini,Device Query,Functionalities,Human
 Webapp,2026-04-08,,,,Bot
 Inapp,2026-04-08,,,,Bot
 Webapp,2026-04-08,,,,Bot
@@ -3781,7 +3781,7 @@ Inapp,2026-04-08,,,,Bot
 Inapp,2026-04-08,,,,Bot
 Webapp,2026-04-08,RV Mini Cam,Presales,Device Query,Human
 Inapp,2026-04-08,,,,Bot
-Inapp,2026-04-08,4G Camera,Mounting,Solar Panel,Human
+Inapp,2026-04-08,4g camera,Mounting,Solar Panel,Human
 Webapp,2026-04-08,,,,Bot
 Inapp,2026-04-08,,,,Bot
 Webapp,2026-04-08,PM,ERROR 121,,Human
@@ -3802,7 +3802,7 @@ Webapp,2026-04-09,PM,AQI,Carbon monoxide Query,Human
 Webapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,,,,Bot
-Webapp,2026-04-09,4g Mini,Device Query,Auto Tracking,Human
+Webapp,2026-04-09,4g mini,Device Query,Auto Tracking,Human
 Webapp,2026-04-09,,,,Bot
 Inapp,2026-04-09,PM,DNR,,Human
 Webapp,2026-04-09,,,,Bot
@@ -3818,7 +3818,7 @@ Webapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,PM,No Reason,Contact Support,Human
-Inapp,2026-04-09,4g Mini,Connection,,Human
+Inapp,2026-04-09,4g mini,Connection,,Human
 Inapp,2026-04-09,,,,Bot
 Inapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,,,,Bot
@@ -3840,9 +3840,9 @@ Inapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,,,,Bot
 Inapp,2026-04-09,PM,Charging Issue,,Human
 Webapp,2026-04-09,,,,Bot
-Inapp,2026-04-09,4g Mini,App Navigation,Data Usage Request,Human
+Inapp,2026-04-09,4g mini,App Navigation,Data Usage Request,Human
 Inapp,2026-04-09,,,,Bot
-Webapp,2026-04-09,4G Camera,App Navigation,Motion Detection,Human
+Webapp,2026-04-09,4g camera,App Navigation,Motion Detection,Human
 Webapp,2026-04-09,,,,Bot
 Webapp,2026-04-09,,,,Bot
 Inapp,2026-04-09,PM,Subs Activation,Plan Upgrade,Human
@@ -3892,17 +3892,17 @@ Inapp,2026-04-10,,,,Bot
 Webapp,2026-04-10,,,,Bot
 Inapp,2026-04-10,,,,Bot
 Inapp,2026-04-10,,,,Bot
-Inapp,2026-04-10,4g Mini,Connection,,Human
+Inapp,2026-04-10,4g mini,Connection,,Human
 Inapp,2026-04-11,RV Mini Cam,Subs Cancellation,,Human
-Inapp,2026-04-11,4g Mini,Subs Activation,Combo Plan,Human
+Inapp,2026-04-11,4g mini,Subs Activation,Combo Plan,Human
 Inapp,2026-04-11,,,,Bot
 Webapp,2026-04-11,,,,Bot
-Inapp,2026-04-11,4g Mini,Email change,,Human
+Inapp,2026-04-11,4g mini,Email change,,Human
 Inapp,2026-04-11,,,,Bot
 Webapp,2026-04-11,,,,Bot
 Webapp,2026-04-11,,,,Bot
 Inapp,2026-04-11,PM,DNR,,Human
-Inapp,2026-04-11,4g Mini,App Navigation,Live Streaming,Human
+Inapp,2026-04-11,4g mini,App Navigation,Live Streaming,Human
 Inapp,2026-04-11,PM,DNR,,Human
 Inapp,2026-04-11,,,,Bot
 Webapp,2026-04-11,,,,Bot
@@ -3926,8 +3926,8 @@ Inapp,2026-04-11,PM,App Navigation,Payment Method,Human
 Webapp,2026-04-11,,,,Bot
 Webapp,2026-04-11,,,,Bot
 Webapp,2026-04-11,,,,Bot
-Webapp,2026-04-11,4G Camera,Playback Issue,,Human
-Inapp,2026-04-11,Waggle Cam Pro,Treat Toss Issue,,Human
+Webapp,2026-04-11,4g camera,Playback Issue,,Human
+Inapp,2026-04-11,Waggle Cam pro,Treat Toss Issue,,Human
 Webapp,2026-04-11,,,,Bot
 Webapp,2026-04-11,PM,Order Cancel,Wrong Address,Human
 Inapp,2026-04-11,,,,Bot
@@ -3948,7 +3948,7 @@ Inapp,2026-04-12,,,,Bot
 Webapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,,,,Bot
-Inapp,2026-04-12,4g Mini,Streaming Issue,,Human
+Inapp,2026-04-12,4g mini,Streaming Issue,,Human
 Webapp,2026-04-12,,,,Bot
 Webapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,PM,Battery Issue,,Human
@@ -3958,7 +3958,7 @@ Webapp,2026-04-12,,,,Bot
 Webapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,,,,Bot
-Webapp,2026-04-12,4g Mini,Subs Activation,Combo Plan,Human
+Webapp,2026-04-12,4g mini,Subs Activation,Combo Plan,Human
 Inapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,RV Mini Cam,Auto Tracking,,Human
 Inapp,2026-04-12,,,,Bot
@@ -3979,7 +3979,7 @@ Webapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,,,,Bot
 Webapp,2026-04-12,,,,Bot
-Inapp,2026-04-12,4g Mini,Subs Activation,Combo Plan,Human
+Inapp,2026-04-12,4g mini,Subs Activation,Combo Plan,Human
 Webapp,2026-04-12,,,,Bot
 Inapp,2026-04-12,,,,Bot
 Webapp,2026-04-12,,,,Bot
@@ -3999,7 +3999,7 @@ Inapp,2026-04-13,,,,Bot
 Inapp,2026-04-13,PM,DNR,,Human
 Inapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,PM,Subs Activation,Discount Request,Human
-Webapp,2026-04-13,4g Mini,App Navigation,Spotlight,Human
+Webapp,2026-04-13,4g mini,App Navigation,Spotlight,Human
 Inapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
@@ -4017,11 +4017,11 @@ Webapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
 Inapp,2026-04-13,RV Mini Cam,Subs Activation,Price Inquiry,Human
 Webapp,2026-04-13,,,,Bot
-Webapp,2026-04-13,4g Mini,Presales,Discount Request,Human
+Webapp,2026-04-13,4g mini,Presales,Discount Request,Human
 Webapp,2026-04-13,PM,Subs Activation,Subs Cost,Human
 Webapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
-Inapp,2026-04-13,4g Mini,App Navigation,Delete Recording,Human
+Inapp,2026-04-13,4g mini,App Navigation,Delete Recording,Human
 Inapp,2026-04-13,RV Mini Cam,App Issue,Delete Recording,Human
 Inapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
@@ -4029,7 +4029,7 @@ Inapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,PM,DNR,,Human
 Webapp,2026-04-13,PM,Subs Cancellation,,Human
-Webapp,2026-04-13,4G Camera,App Navigation,Turn Off Light,Human
+Webapp,2026-04-13,4g camera,App Navigation,Turn Off Light,Human
 Webapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
@@ -4050,7 +4050,7 @@ Inapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
 Inapp,2026-04-13,,,,Bot
 Inapp,2026-04-13,PM,DNR,,Human
-Inapp,2026-04-13,4g Mini,No SD Card Found,,Human
+Inapp,2026-04-13,4g mini,No SD Card Found,,Human
 Webapp,2026-04-13,,,,Bot
 Inapp,2026-04-13,,,,Bot
 Webapp,2026-04-13,,,,Bot
@@ -4101,9 +4101,9 @@ Inapp,2026-04-14,,,,Bot
 Webapp,2026-04-14,,,,Bot
 Webapp,2026-04-14,,,,Bot
 Webapp,2026-04-14,,,,Bot
-Inapp,2026-04-14,4g Mini,Subs Activation,Subs Inquiry,Human
+Inapp,2026-04-14,4g mini,Subs Activation,Subs Inquiry,Human
 Inapp,2026-04-14,RV Mini Cam,Connection,,Human
-Webapp,2026-04-14,4g Mini,Presales,Functionalities,Human
+Webapp,2026-04-14,4g mini,Presales,Functionalities,Human
 Inapp,2026-04-14,,,,Bot
 Inapp,2026-04-14,,,,Bot
 Webapp,2026-04-14,,,,Bot
@@ -4126,7 +4126,7 @@ Inapp,2026-04-15,,,,Bot
 Inapp,2026-04-15,,,,Bot
 Webapp,2026-04-15,,,,Bot
 Inapp,2026-04-15,,,,Bot
-Inapp,2026-04-15,4g Mini,Connection,,Human
+Inapp,2026-04-15,4g mini,Connection,,Human
 Inapp,2026-04-15,,,,Bot
 Inapp,2026-04-15,,,,Bot
 Inapp,2026-04-15,,,,Bot
@@ -4134,12 +4134,12 @@ Webapp,2026-04-15,PM,DNR,,Human
 Inapp,2026-04-15,,,,Bot
 Webapp,2026-04-15,PM,PLPB,,Human
 Inapp,2026-04-15,PM,DNR,,Human
-Inapp,2026-04-15,4g Mini,App Query,Share Video,Human
+Inapp,2026-04-15,4g mini,App Query,Share Video,Human
 Inapp,2026-04-15,,,,Bot
-Inapp,2026-04-15,4g Mini,Subs Activation,Flexi Plan Query,Human
+Inapp,2026-04-15,4g mini,Subs Activation,Flexi Plan Query,Human
 Webapp,2026-04-15,,,,Bot
 Inapp,2026-04-15,,,,Bot
-Inapp,2026-04-15,4G Camera,App Navigation,Auto Tracking,Human
+Inapp,2026-04-15,4g camera,App Navigation,Auto Tracking,Human
 Inapp,2026-04-15,,,,Bot
 Inapp,2026-04-15,,,,Bot
 Inapp,2026-04-15,,,,Bot
@@ -4172,7 +4172,7 @@ Inapp,2026-04-16,,,,Bot
 Inapp,2026-04-16,,,,Bot
 Inapp,2026-04-16,,,,Bot
 Inapp,2026-04-16,,,,Bot
-Webapp,2026-04-16,4G Camera,App Navigation,Auto Tracking,Human
+Webapp,2026-04-16,4g camera,App Navigation,Auto Tracking,Human
 Webapp,2026-04-16,,,,Bot
 Webapp,2026-04-16,,,,Bot
 Inapp,2026-04-16,,,,Bot
@@ -4259,13 +4259,13 @@ Inapp,2026-04-17,PM,Geo Fence Issue,,Human
 Inapp,2026-04-17,PM,DNR,,Human
 Inapp,2026-04-17,PM,Login Issue,Different Email,Human
 Inapp,2026-04-17,PM,SIM Card not Found,,Human
-Inapp,2026-04-17,Waggle Cam Pro,Plan Mapping,,Human
-Inapp,2026-04-17,4g Mini,App Navigation,Payment Method,Human
+Inapp,2026-04-17,Waggle Cam pro,Plan Mapping,,Human
+Inapp,2026-04-17,4g mini,App Navigation,Payment Method,Human
 Inapp,2026-04-17,PM,Temp Difference,,Human
 Inapp,2026-04-17,,,,Bot
 Inapp,2026-04-17,PM,Plan Mapping,,Human
 Inapp,2026-04-17,PM,Registration Issue,Used Device,Human
-Webapp,2026-04-17,4g Mini,App Issue,Unable to register,Human
+Webapp,2026-04-17,4g mini,App Issue,Unable to register,Human
 Webapp,2026-04-17,PM,Subs Cancellation,Query,Human
 Webapp,2026-04-17,,,,Bot
 Webapp,2026-04-17,,,,Bot
@@ -4273,9 +4273,9 @@ Webapp,2026-04-17,,,,Bot
 Webapp,2026-04-17,,,,Bot
 Inapp,2026-04-18,PM,Subs Activation,Presales,Human
 Inapp,2026-04-18,PM,Device Query,Display related,Human
-Inapp,2026-04-18,4g Mini,App Navigation,Turn Off Light,Human
+Inapp,2026-04-18,4g mini,App Navigation,Turn Off Light,Human
 Inapp,2026-04-18,RV Mini Cam,Order,Unable Enter Address,Human
-Inapp,2026-04-18,4G Camera,Presales,Functionalities,Human
+Inapp,2026-04-18,4g camera,Presales,Functionalities,Human
 Inapp,2026-04-17,,,,Bot
 Inapp,2026-04-17,,,,Bot
 Inapp,2026-04-17,,,,Bot
@@ -4342,10 +4342,10 @@ Inapp,2026-04-20,,,,Bot
 Inapp,2026-04-20,,,,Bot
 Inapp,2026-04-20,,,,Bot
 Inapp,2026-04-20,,,,Bot
-Inapp,2026-04-20,4g Mini,Connection,,Human
+Inapp,2026-04-20,4g mini,Connection,,Human
 Inapp,2026-04-20,PM,DNR,,Human
-Inapp,2026-04-20,4g Mini,Registration Issue,Ownership Transfer,Human
-Inapp,2026-04-20,4G Camera,Mounting Query,,Human
+Inapp,2026-04-20,4g mini,Registration Issue,Ownership Transfer,Human
+Inapp,2026-04-20,4g camera,Mounting Query,,Human
 Inapp,2026-04-20,,,,Bot
 Inapp,2026-04-20,,,,Bot
 Inapp,2026-04-20,,,,Bot
@@ -4368,14 +4368,14 @@ Webapp,2026-04-20,,,,Bot
 Webapp,2026-04-20,,,,Bot
 Webapp,2026-04-20,,,,Bot
 Webapp,2026-04-20,,,,Bot
-Webapp,2026-04-20,4G Camera,Return and Refund,,Human
-Webapp,2026-04-20,4g Mini,Connection,SIM out of service,Human
+Webapp,2026-04-20,4g camera,Return and Refund,,Human
+Webapp,2026-04-20,4g mini,Connection,SIM out of service,Human
 Webapp,2026-04-20,PM,Subs Cancellation,,Human
 Webapp,2026-04-20,,,,Bot
-Webapp,2026-04-20,4g Mini,Not Turning On,,Human
-Webapp,2026-04-20,4g Mini,Subs Query,,Human
+Webapp,2026-04-20,4g mini,Not Turning On,,Human
+Webapp,2026-04-20,4g mini,Subs Query,,Human
 Webapp,2026-04-20,,,,Bot
-Inapp,2026-04-21,4g Mini,Connection,,Human
+Inapp,2026-04-21,4g mini,Connection,,Human
 Inapp,2026-04-21,,,,Bot
 Inapp,2026-04-21,,,,Bot
 Inapp,2026-04-21,,,,Bot
@@ -4387,9 +4387,9 @@ Inapp,2026-04-21,PM,Subs Cancellation,,Human
 Webapp,2026-04-21,,,,Bot
 Inapp,2026-04-21,,,,Bot
 Inapp,2026-04-21,,,,Bot
-Webapp,2026-04-21,4g Mini,Two Way Audio issue,,Human
+Webapp,2026-04-21,4g mini,Two Way Audio issue,,Human
 Inapp,2026-04-21,,,,Bot
-Webapp,2026-04-21,4g Mini,Two Way Audio issue,,Human
+Webapp,2026-04-21,4g mini,Two Way Audio issue,,Human
 Inapp,2026-04-21,,,,Bot
 Inapp,2026-04-21,,,,Bot
 Inapp,2026-04-21,,,,Bot
@@ -4419,7 +4419,7 @@ Webapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
 Webapp,2026-04-22,,,,Bot
-Inapp,2026-04-22,4g Mini,Subs Activation,Flexi Plan query,Human
+Inapp,2026-04-22,4g mini,Subs Activation,Flexi Plan query,Human
 Webapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
 Webapp,2026-04-22,,,,Bot
@@ -4436,13 +4436,13 @@ Inapp,2026-04-22,RV Mini Cam,Set Up,Connection,Human
 Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
-Webapp,2026-04-22,4g Mini,App Navigation,Combo Plan,Human
+Webapp,2026-04-22,4g mini,App Navigation,Combo Plan,Human
 Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
 Webapp,2026-04-22,,,,Bot
 Webapp,2026-04-22,,,,Bot
 Webapp,2026-04-22,,,,Bot
-Inapp,2026-04-22,Waggle Cam Pro,App Navigation,Alerts Related,Human
+Inapp,2026-04-22,Waggle Cam pro,App Navigation,Alerts Related,Human
 Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
@@ -4457,18 +4457,18 @@ Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,,,,Bot
 Inapp,2026-04-22,RV Mini Cam,Conneciton,,Human
 Inapp,2026-04-23,PM,Subs Activation,Discount Request,Human
-Inapp,2026-04-23,4g Mini,User Guide Request,Pan Related,Human
+Inapp,2026-04-23,4g mini,User Guide Request,Pan Related,Human
 Inapp,2026-04-23,PM,DNR,,Human
 Webapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,PM,Order,Charger,Human
 Inapp,2026-04-23,PM,App Navigation,Change Billing Address,Human
 Webapp,2026-04-23,PM,DNR,,Human
 Webapp,2026-04-23,,,,Bot
-Webapp,2026-04-23,4g Mini,Presales,Price Inquiry,Human
+Webapp,2026-04-23,4g mini,Presales,Price Inquiry,Human
 Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
-Inapp,2026-04-23,4g Mini,App Issue,Cam not showing,Human
+Inapp,2026-04-23,4g mini,App Issue,Cam not showing,Human
 Webapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
@@ -4480,7 +4480,7 @@ Inapp,2026-04-23,PM,Subs Cancellation,,Human
 Webapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
 Webapp,2026-04-23,,,,Bot
-Inapp,2026-04-23,4g Mini,Trial Plan Query,,Human
+Inapp,2026-04-23,4g mini,Trial Plan Query,,Human
 Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
@@ -4497,7 +4497,7 @@ Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
 Webapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
-Inapp,2026-04-23,4g Mini,Device Removal,,Human
+Inapp,2026-04-23,4g mini,Device Removal,,Human
 Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
 Inapp,2026-04-23,,,,Bot
@@ -4515,7 +4515,7 @@ Inapp,2026-04-24,,,,Bot
 Inapp,2026-04-24,,,,Bot
 Inapp,2026-04-24,,,,Bot
 Inapp,2026-04-24,,,,Bot
-Inapp,2026-04-24,4g Mini,Streaming,Other device,Human
+Inapp,2026-04-24,4g mini,Streaming,Other device,Human
 Webapp,2026-04-24,,,,Bot
 Webapp,2026-04-24,,,,Bot
 Webapp,2026-04-24,PM,Order,Canada Order,Human
@@ -4552,9 +4552,9 @@ Inapp,2026-04-25,PM,Warranty,Unable to claim,Human
 Webapp,2026-04-25,PM,Warranty,Unable to claim,Human
 Webapp,2026-04-25,,,,Bot
 Inapp,2026-04-25,,,,Bot
-Webapp,2026-04-25,4g Mini,Device Query,Functionalities,Human
+Webapp,2026-04-25,4g mini,Device Query,Functionalities,Human
 Webapp,2026-04-25,,,,Bot
-Webapp,2026-04-25,4g Mini,Subs Activation,Combo Plan,Human
+Webapp,2026-04-25,4g mini,Subs Activation,Combo Plan,Human
 Inapp,2026-04-25,,,,Bot
 Webapp,2026-04-25,PM,DNR,,Human
 Inapp,2026-04-25,,,,Bot
@@ -4572,7 +4572,7 @@ Inapp,2026-04-25,RV Mini Cam,Registration Issue,Unable to register,Human
 Inapp,2026-04-25,,,,Bot
 Inapp,2026-04-25,,,,Bot
 Webapp,2026-04-25,,,,Bot
-Inapp,2026-04-25,4g Mini,App Navigation,Delete Recording,Human
+Inapp,2026-04-25,4g mini,App Navigation,Delete Recording,Human
 Inapp,2026-04-25,,,,Bot
 Webapp,2026-04-25,,,,Bot
 Inapp,2026-04-25,,,,Bot
@@ -4601,7 +4601,7 @@ Inapp,2026-04-26,,,,Bot
 Webapp,2026-04-26,,,,Bot
 Inapp,2026-04-26,,,,Bot
 Inapp,2026-04-26,,,,Bot
-Inapp,2026-04-26,4g Mini,Charging Query,,Human
+Inapp,2026-04-26,4g mini,Charging Query,,Human
 Inapp,2026-04-26,,,,Bot
 Webapp,2026-04-26,,,,Bot
 Inapp,2026-04-26,,,,Bot
@@ -4620,11 +4620,11 @@ Inapp,2026-04-26,PM,DNR,,Human
 Inapp,2026-04-26,,,,Bot
 Webapp,2026-04-26,,,,Bot
 Webapp,2026-04-26,PM,Warranty,Unable to claim,Human
-Webapp,2026-04-26,4g Mini,Subs Activation,Discount Request,Human
+Webapp,2026-04-26,4g mini,Subs Activation,Discount Request,Human
 Inapp,2026-04-26,PM,DNR,,Human
 Inapp,2026-04-26,,,,Bot
 Inapp,2026-04-26,,,,Bot
-Webapp,2026-04-26,4g Mini,Return and Refund,Outside Window,Human
+Webapp,2026-04-26,4g mini,Return and Refund,Outside Window,Human
 Webapp,2026-04-26,,,,Bot
 Webapp,2026-04-26,,,,Bot
 Inapp,2026-04-27,,,,Bot
@@ -4632,7 +4632,7 @@ Inapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,PM,Subs Reactivation,Issue,Human
 Webapp,2026-04-27,,,,Bot
-Inapp,2026-04-27,4g Mini,Multi User Access,,Human
+Inapp,2026-04-27,4g mini,Multi User Access,,Human
 Webapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
@@ -4656,8 +4656,8 @@ Inapp,2026-04-27,PM,Return and Refund,,Human
 Inapp,2026-04-27,PM,Subs Cancellation,Further Steps,Human
 Inapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
-Webapp,2026-04-27,4g Mini,Return and Refund,Mistakenly Ordered two,Human
-Webapp,2026-04-27,4g Mini,Multi User Access,,Human
+Webapp,2026-04-27,4g mini,Return and Refund,Mistakenly Ordered two,Human
+Webapp,2026-04-27,4g mini,Multi User Access,,Human
 Webapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
 Webapp,2026-04-27,PM,Device Query,Functionalities,Human
@@ -4675,7 +4675,7 @@ Inapp,2026-04-27,PM,DNR,,Human
 Inapp,2026-04-27,,,,Bot
 Webapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
-Webapp,2026-04-27,4G Camera,Subs Activation,Combo Plan,Human
+Webapp,2026-04-27,4g camera,Subs Activation,Combo Plan,Human
 Inapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
 Webapp,2026-04-27,,,,Bot
@@ -4688,3 +4688,147 @@ Inapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
 Webapp,2026-04-27,,,,Bot
 Inapp,2026-04-27,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,DNR,,Human
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,Alert Query,SMS Alert,Human
+Inapp,2026-04-29,PM,Alert Query,SMS on SPAM,Human
+Inapp,2026-04-29,PM,App Navigation,Alert Turn Off,Human
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,NA,Contact Support,Human
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,False PLPB,,Human
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,App Issue,Notification Related - Fully Charged,Human
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,PM,DNR,,Human
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,PM,Account Related,Update Phone No,Human
+Inapp,2026-04-29,PM,App Issue,Notification Related - Fully Charged,Human
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,App Issue,Notification Related - Fully Charged,Human
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,DNR,,Human
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,,,,Bot
+Webapp,2026-04-29,,,,Bot
+Inapp,2026-04-29,PM,Subs Activation,Different Email Used,Human
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,PM,Subs Mapping,Replacement Device,Human
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,4g mini,App Issue,Plan Purchase,Human
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,4g mini,Presales,Combo Plan,Human
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,PM,App Issue,Change Pet Profile,Human
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,4g mini,Subs Mapping,,Human
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,4g mini,Connection,,Human
+Inapp,2026-04-30,PM,Subs Mapping,,Human
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,PM,DNR,,Human
+Inapp,2026-04-30,PM,Subs Activation,Ownership Transfer,Human
+Inapp,2026-04-30,,,,Bot
+Webapp,2026-04-30,,,,Bot
+Inapp,2026-04-30,PM,Subs Reactivation,Query,Human
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,4g mini,Connection,,Human
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,PM,Subs Mapping,,Human
+Inapp,2026-04-28,PM,Device Query,AQI,Human
+Webapp,2026-04-28,PM,DNR,,Human
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,PM,Subs Cancellation,,Human
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,4g mini,Device Query,Charger Sel,Human
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,PM,Subs Cancellation,,Human
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,PM,Subs Activation,Payment Is,Human
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,PM,App Issue,Loading,Human
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Inapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
+Webapp,2026-04-28,,,,Bot
